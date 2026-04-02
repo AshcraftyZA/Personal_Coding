@@ -1,12 +1,12 @@
-Catalog#,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,Date Added,Collection Media Condition,Collection Sleeve Condition,Collection Notes
+Catalog#,Artist,Title,Label,Format,Rating,Released,release_id,CollectionFolder,Date Added,Collection Price,Collection Sold Price,Collection Notes
 "S 4208, 4208",Jerry Goldsmith,Patton (Original Motion Picture Score),"20th Century Fox Records, 20th Century Fox Records","LP, Album",,1970,29799220,Record Collection #100,2025-07-28 11:17:56,,,A
 T-414,Love Unlimited,Under The Influence Of Love Unlimited,20th Century Records,"LP, Album, P/Mixed, Ter",,1973,580795,Record Collection #111,2026-01-25 18:22:01,,,
 T-433,Love Unlimited Orchestra,Rhapsody In White,20th Century Records,"LP, Album",,1974,21270940,Individual Find,2026-03-23 07:07:24,,,
 4S-SP-106,Various,Made In Tennessee,4 Star Records,"LP, Comp",,1977,4454379,Record Collection #97,2025-06-24 12:37:49,,,A
 SE 1024,Carpenters,Yesterday Once More,A&M Records,"2xLP, Comp, Mon",,1984,3110567,Record Collection #106,2025-10-24 14:32:37,,,
-SP 5199,Amy Grant,Lead Me On,A&M Records,"LP, Album",,1988,2096172,Record Collection #111,2026-01-23 14:42:02,,,A
+SP 5199,Amy Grant,Lead Me On,A&M Records,"LP, Album",,1988,2096172,Record Collection #111,2026-01-23 14:42:02,7,,A
 SP-3708,Supertramp,Breakfast In America,A&M Records,"LP, Album, Mon",,1979,4450663,Record Collection #116,2026-03-11 11:51:35,,,
-SP-4249,Lee Michaels,Barrel,A&M Records,"LP, Album",,1970,1226289,Record Collection #98,2026-04-01 22:36:08,,,
+SP-4249,Lee Michaels,Barrel,A&M Records,"LP, Album",,1970,1226289,Record Collection #98,2026-04-01 22:36:08,,,A
 SP-4575,Pablo Cruise,Lifeline,A&M Records,"LP, Album, Pit",,1976,3874309,Record Collection #106,2025-10-24 14:29:06,,,A
 SP-4836,Rita Coolidge,Greatest Hits,A&M Records,"LP, Comp, San",,1980,1768031,Record Collection #111,2026-03-31 07:37:41,,,A
 SP-4896,Jeffrey Osborne,Jeffrey Osborne,A&M Records,"LP, Album, R, ",,1982,1545418,Record Collection #89,2025-05-07 07:34:34,,,
@@ -14,7 +14,7 @@ SP-4906,Joe Jackson,Night And Day,A&M Records,"LP, Album, EMW",,1982,477274,Reco
 "SP 3501, SP-3501",Burt Bacharach,Burt Bacharach,"A&M Records, A&M Records","LP, Album, Gat",,1971,8706833,Record Collection #111,2026-01-23 18:36:53,,,A
 "SP 4131, 131",Burt Bacharach,Reach Out,"A&M Records, A&M Records","LP, Album, Pit",,1967,8230505,Record Collection #111,2026-01-25 10:48:46,,,A
 "SP 4769, SP-4769",1994:,Please Stand By...,"A&M Records, A&M Records","LP, Album",,1979,4171605,Record Collection #93,2025-05-20 11:42:27,,,A
-"SP-4294, SP 4294",Procol Harum,Broken Barricades,"A&M Records, A&M Records","LP, Album, Ter",,1971,6793124,Record Collection #96,2025-06-20 08:42:23,,,A
+"SP-4294, SP 4294",Procol Harum,Broken Barricades,"A&M Records, A&M Records","LP, Album, Ter",,1971,6793124,Record Collection #96,2025-06-20 08:42:23,7,,A
 "SP-4343, SP 4343",The Flying Burrito Bros,The Last Of The Red Hot Burritos,"A&M Records, A&M Records","LP, Album, Mon",,1972,1361073,Record Collection #111,2026-01-25 09:37:09,,,
 "SP-4361, SP 4361",Rick Wakeman,The Six Wives Of Henry VIII,"A&M Records, A&M Records","LP, Album, Ter",,1973,461547,Record Collection #113,2026-02-02 18:58:35,,,
 "SP-4616, SP 4616",Rita Coolidge,Anytime... Anywhere,"A&M Records, A&M Records","LP, Album, Pit",,1977,944333,Record Collection #111,2026-01-30 08:35:44,,,A
@@ -24,7 +24,7 @@ DOSD-2029,Donna Fargo,Whatever I Say Means I Love You,ABC Dot,"LP, Album, Ter",,
 DOSD-2061,Freddy Fender (2),If You're Ever In Texas,ABC Dot,"LP, Album, San",,1976,1441811,Record Collection #111,2026-01-25 10:15:08,,,
 DOSD-2063,Billy 'Crash' Craddock,Crash,ABC Dot,"LP, Album, Pit",,1976,8707423,Record Collection #109,2026-01-19 09:21:32,,,A
 DOSD-2065,Narvel Felts,Doin' What I Feel,ABC DOT,"LP, Album",,1976,5030513,Record Collection #109,2026-01-19 10:07:22,,,A
-AA 1017,Levon Helm And The RCO All-Stars,Levon Helm And The RCO All-Stars,ABC Records,"LP, Album, Ter",,1977,4057457,Record Collection #108,2026-01-06 07:19:29,,,A
+AA 1017,Levon Helm And The RCO All-Stars,Levon Helm And The RCO All-Stars,ABC Records,"LP, Album, Ter",,1977,4057457,Record Collection #108,2026-01-06 07:19:29,10,,A
 AA-1068,John Klemmer,Arabesque,ABC Records,"LP, Album, San",,1978,1185146,Record Collection #116,2026-03-13 06:48:02,,,A
 AB-850,Billy 'Crash' Craddock,Greatest Hits - Volume One,ABC Records,"LP, Comp",,1974,18700087,Record Collection #111,2026-01-30 08:38:01,,,A
 ABCD-851,Bobby Vinton,Melodies Of Love,ABC Records,"LP, Album, Club, Ind",,1974,8841194,Record Collection #111,2026-01-28 22:01:46,,,A
@@ -33,7 +33,7 @@ ABCD-957,Bobby Vinton,Serenades Of Love,ABC Records,"LP, Album, Ter",,1976,53193
 AY-1088,Barbara Mandrell,Moods,ABC Records,"LP, Album, Club, San",,1978,3250659,Record Collection #106,2025-10-24 14:25:51,,,
 AH-44001,Don Gibson,I'm All Wrapped Up In You,"ABC Records, Hickory Records",LP,,1976,2354773,Record Collection #109,2026-01-19 08:05:41,,,A
 P 12474,Various,Sounds Of Christmas,"Amway, Columbia Special Products","LP, Comp",,1974,6007250,Record Collection #111,2026-01-23 15:34:21,,,A
-740319,The Friends (3),Songs That Mom And Dad Taught Us,Area Wide Crusades,"LP, Album",,1974,3336173,Record Collection #111,2026-01-25 09:16:54,,,A
+740319,The Friends (3),Songs That Mom And Dad Taught Us,Area Wide Crusades,"LP, Album",,1974,3336173,Record Collection #111,2026-01-25 09:16:54,10,,A
 "LP-755, 755",The Ramsey Lewis Trio,Choice!: The Best Of The Ramsey Lewis Trio,"Argo (6), Argo (6)","LP, Comp, Mono",,1965,19953865,Record Collection #89,2025-05-06 07:42:19,,,
 "SW-50039, SW 50039",Chanson,Chanson,"Ariola Records America, Ariola Records America","LP, Album",,1978,1993990,Record Collection #98,2026-04-01 22:17:16,,,
 AB 4230,Dionne Warwick,Dionne,Arista,"LP, Album, Pit",,1979,3812571,Record Collection #106,2025-10-24 14:33:57,,,A
@@ -43,8 +43,8 @@ AL 4061,The Brecker Brothers,Back To Back,Arista,"LP, Album",,1976,1464641,Recor
 AL 8300,Outlaws,Bring It Back Alive,Arista,"2xLP, Album, Club, CRC",,0,14607905,Record Collection #93,2025-05-20 13:45:58,,,A
 AL 8586,Kris McKay,What Love Endures,Arista,LP,,1990,5376136,Record Collection #102,2025-08-11 17:44:56,,,A
 AL 9507,Outlaws,In The Eye Of The Storm,Arista,"LP, Album, San",,1979,11437899,Record Collection #93,2025-05-20 13:30:36,,,
-AL-8427,Kenny G (2),Duotones,Arista,"LP, Album, Hau",,1986,5271038,Record Collection #106,2025-10-24 15:14:15,,,A
-AL-8457,Kenny G (2),Silhouette,Arista,"LP, Album, All",,1988,12652063,Record Collection #105,2025-09-26 14:00:03,,,A
+AL-8427,Kenny G (2),Duotones,Arista,"LP, Album, Hau",,1986,5271038,Record Collection #106,2025-10-24 15:14:15,5,,A
+AL-8457,Kenny G (2),Silhouette,Arista,"LP, Album, All",,1988,12652063,Record Collection #105,2025-09-26 14:00:03,5,,A
 "AL 8-8107, AL8-8107",Tom Browne,Rockin' Radio,"Arista, Arista","LP, Album, Ind",,1983,441632,Record Collection #89,2025-05-07 07:43:04,,,A
 "AL8-8102, AL 8 8102",Barry Manilow,Greatest Hits Vol. II,"Arista, Arista","LP, Comp, Ind",,1983,2630130,Record Collection #106,2025-10-24 14:28:27,,,
 "AL8-8262, AL 8-8262",Dionne Warwick,Finder Of Lost Loves,"Arista, Arista","LP, Album, Club, CRC",,1985,9834846,Record Collection #97,2025-06-24 11:10:46,,,A
@@ -56,13 +56,13 @@ SD 38-111,The Wonder Band,Stairway To Love,ATCO Records,"LP, Album",,1979,143868
 45-2005,Chuck Willis,You'll Be My Love,Atlantic,"7"", Promo",,1958,5625072,Record Collection #104,2025-09-17 08:55:39,,,
 80018-1,Frida,Something's Going On,Atlantic,"LP, Album, SP ",,1982,481975,Record Collection #105,2025-09-26 12:16:51,,,A
 81273-1-E,Various,White Nights: Original Motion Picture Soundtrack,Atlantic,"LP, Album, SP ",,1985,1453798,Record Collection #113,2026-02-02 18:01:09,,,A
-81728-1,Lou Gramm,Ready Or Not,Atlantic,"LP, Album, AR",,1987,11737945,Record Collection #93,2025-05-20 10:03:24,,,A
+81728-1,Lou Gramm,Ready Or Not,Atlantic,"LP, Album, AR",,1987,11737945,Record Collection #93,2025-05-20 10:03:24,5,,A
 ATC 9816,Laura Branigan,Branigan 2,Atlantic,"LP, Album",,1983,2397366,Record Collection #106,2025-10-17 14:50:07,,,A
 SD 16010,Bette Midler,The Rose - The Original Soundtrack Recording,Atlantic,"LP, Album, MO ",,1979,5509868,Record Collection #111,2026-01-30 08:14:12,,,
 SD 18174,Firefall,Firefall,Atlantic,"LP, Album, MO ",,1976,4142276,Record Collection #93,2025-05-20 13:14:20,,,A
 SD 18174,Firefall,Firefall,Atlantic,"LP, Album, MO ",,1976,4142276,Record Collection #98,2025-07-09 10:31:26,,,
 SD 18181,Spinners,Happiness Is Being With The Spinners,Atlantic,"LP, Album, PR",,1976,780637,Record Collection #89,2025-05-07 07:49:12,,,
-SD 19325,Henry Paul Band,Anytime,Atlantic,"LP, Album, Spe",,1981,3062513,Record Collection #116,2026-03-10 07:59:45,,,A
+SD 19325,Henry Paul Band,Anytime,Atlantic,"LP, Album, Spe",,1981,3062513,Record Collection #116,2026-03-10 07:59:45,5,,A
 SD 8148,The Young Rascals,Groovin',Atlantic,"LP, Album",,1967,7226032,Individual Find,2025-07-07 19:22:45,,,
 SD 8172,Earl Coleman Featuring Billy Taylor,Love Songs,Atlantic,LP,,1968,3013652,Record Collection #113,2026-02-02 17:58:44,,,A
 "558305-1, 0075678662720",Bruno Mars,XXIVK Magic,"Atlantic, Atlantic","LP, Album, Ltd, RE, Gol",,2022,22114357,Record Collection #112,2026-01-30 08:51:50,,,
@@ -73,14 +73,14 @@ AVL6001,Liberace,Piano Gems,AVI Records,"LP, Album",,1976,13239816,Record Collec
 BRK 3561,Randy Vanwarmer,Beat Of Love,Bearsville,"LP, Album, Jac",,1981,813305,Record Collection #96,2026-04-01 22:02:14,,,
 BELL 1315,The Fifth Dimension,Soul & Inspiration,Bell Records,"LP, Album",,1974,1926937,Uncategorized,2026-01-23 19:06:04,,,A
 BELL 6064,The Partridge Family,The Partridge Family Sound Magazine,Bell Records,"LP, Album, Bes",,1971,1583857,Record Collection #98,2026-04-01 22:33:59,,,A
-R 02463,Carman,Live/Radically Saved,Benson,"LP, Album",,1988,9916169,Record Collection #111,2026-01-23 15:23:33,,,A
+R 02463,Carman,Live/Radically Saved,Benson,"LP, Album",,1988,9916169,Record Collection #111,2026-01-23 15:23:33,10,,A
 LPS512,The Goodtime Singers,Some of Our Own and Some of the Others,"Benson Sound, Inc.","LP, Album",,0,9846614,Record Collection #111,2026-02-06 19:10:20,,,A
-860009588745,Morgan Wallen,If I Know Me,Big Loud Records,"LP, Album, Ltd, RE, Bla",,2023,27276714,Record Collection #112,2026-01-30 08:58:57,,,
+860009588745,Morgan Wallen,If I Know Me,Big Loud Records,"LP, Album, Ltd, RE, Bla",,2023,27276714,Record Collection #112,2026-01-30 08:58:57,30,22.5,
 45-3084,Scott Burton (2),Brushfire!,Bigtop,"7"", Promo",,1961,4375523,Record Collection #104,2025-10-03 13:29:15,,,
 BWR-2003,Candle (3),"To The Chief Musician, Chapter II",Birdwing Records,"LP, Album",,1977,1842139,Record Collection #111,2026-01-23 15:26:08,,,A
 BN-LA259-G,Lou Donaldson,Sweet Lou,Blue Note,"LP, Album",,1974,1053628,Record Collection #106,2025-10-24 14:51:34,,,
 "BST-84364, BST 84364",Jimmy McGriff,Something To Listen To,"Blue Note, Blue Note","LP, Album",,1970,2452425,Record Collection #98,2026-04-01 22:16:21,,,
-BTS 19,Dave Mason,Alone Together,Blue Thumb Records,"LP, Album",,1970,1339307,Record Collection #111,2026-02-06 08:54:55,,,A
+BTS 19,Dave Mason,Alone Together,Blue Thumb Records,"LP, Album",,1970,1339307,Record Collection #111,2026-02-06 08:54:55,5,,A
 CO176M,Harve Presnell,Brigham!,Brigham Young University,"LP, Album",,1975,8569279,Record Collection #111,2026-01-23 14:25:25,,,
 4050538957686,Jason Aldean,Highway Desperado,Broken Bow Records,"LP, Opa",,2023,28800667,Record Collection #112,2026-01-30 08:49:04,,,
 BL 754122,Jackie Wilson,Whispers,Brunswick,"LP, Album",,1966,14347052,Uncategorized,2025-05-13 20:38:55,,,
@@ -89,7 +89,7 @@ BBS-1022,Ronnie Milsap,Love Will Never Pass Us By,Buckboard Records,"LP, Comp",,
 "LPS-774, Cadet 774",Ramsey Lewis,Wade In The Water,"Cadet, Cadet","LP, Album, Ter",,1966,2300031,Record Collection #111,2026-01-30 07:58:09,,,
 CMC-1004,Agape Force,Potpourri,Candle Company Music,"LP, Album",,1974,2073899,Record Collection #111,2026-01-25 15:29:35,,,A
 SKAO-391,Quicksilver Messenger Service,Shady Grove,Capitol Records,"LP, Album, Los",,1969,9471208,Record Collection #91,2025-05-13 21:14:19,,,
-SM-332,The Sons Of Champlin,The Sons,Capitol Records,"LP, Album, RE, Los",,0,4845635,Individual Find,2025-08-25 06:18:52,,,A
+SM-332,The Sons Of Champlin,The Sons,Capitol Records,"LP, Album, RE, Los",,0,4845635,Individual Find,2025-08-25 06:18:52,10,,A
 SO-11948,The Knack (3),Get The Knack,Capitol Records,"LP, Album, Jac",,1979,676588,Record Collection #111,2026-01-23 13:28:32,,,
 ST 11625,Norton Buffalo,Lovin' In The Valley Of The Moon,Capitol Records,"LP, Album, Win",,1977,8364935,Record Collection #113,2026-02-02 19:00:30,,,
 ST 2082,Nancy Wilson,"Today, Tomorrow, Forever",Capitol Records,LP,,1964,2274267,Record Collection #111,2026-01-23 17:59:54,,,A
@@ -103,21 +103,21 @@ ST-11861,Starz (2),Coliseum Rock,Capitol Records,"LP, Album, Win",,1978,1880840,
 ST-11927,Cheryl Ladd,Dance Forever,Capitol Records,"LP, Album",,1979,1132141,Record Collection #105,2025-09-24 08:48:50,,,A
 ST-12323,Earl Klugh,Wishful Thinking,Capitol Records,"LP, Album, Jac",,1984,1512284,Record Collection #102,2025-08-11 13:27:42,,,A
 ST-162,The Cannonball Adderley Quintet,In Person,Capitol Records,"LP, Album, Los",,1969,1570654,Uncategorized,2025-07-08 08:03:33,,,
-ST-1961,The Howard Roberts Quartet,H.R. Is A Dirty Guitar Player,Capitol Records,"LP, Album",,1963,2217753,Individual Find,2025-12-12 09:04:18,,,A
+ST-1961,The Howard Roberts Quartet,H.R. Is A Dirty Guitar Player,Capitol Records,"LP, Album",,1963,2217753,Individual Find,2025-12-12 09:04:18,10,,A
 ST-2588,Wayne Newton,Songs For A Merry Christmas,Capitol Records,"LP, Album, Scr",,1966,11500046,Record Collection #109,2026-01-19 09:24:37,,,A
-ST-638,Merle Haggard,"A Tribute To The Best Damn Fiddle Player In The World: Or, My Salute To Bob Wills",Capitol Records,"LP, Album, RE",,0,8056513,Record Collection #114,2026-03-03 08:48:20,,,A
-ST-661,Joy Of Cooking,Joy Of Cooking,Capitol Records,"LP, Album, Los",,1971,9765169,Record Collection #111,2026-01-23 18:13:04,,,A
+ST-638,Merle Haggard,"A Tribute To The Best Damn Fiddle Player In The World: Or, My Salute To Bob Wills",Capitol Records,"LP, Album, RE",,0,8056513,Record Collection #114,2026-03-03 08:48:20,7,,A
+ST-661,Joy Of Cooking,Joy Of Cooking,Capitol Records,"LP, Album, Los",,1971,9765169,Record Collection #111,2026-01-23 18:13:04,5,,A
 T-2311,The Nat King Cole Trio,Original Vocal And Instrumental Recordings Of The Easy Listenin' Favorites,Capitol Records,"LP, Mono, RE",,1965,6053516,Record Collection #111,2026-01-23 15:00:38,,,
 WAO-990,Meredith Willson,The Music Man - Original Broadway Cast,Capitol Records,"LP, Album, Mono, Gat",,1958,4765706,Record Collection #106,2025-10-27 19:22:21,,,
 "SMAS-829, SMAS 829",Seatrain,The Marblehead Messenger,"Capitol Records, Capitol Records","LP, Album, Los",,1971,2537497,Record Collection #100,2025-08-13 08:32:53,,,
 "ST 2419, ST-2419",Laurindo Almeida And The San Fernando Guitars,New Broadway-Hollywood Hits,"Capitol Records, Capitol Records","LP, Album",,1965,3717089,Record Collection #98,2025-07-08 14:29:45,,,A
 "ST 2928, ST-2928",Bobbie Gentry And Glen Campbell,Bobbie Gentry And Glen Campbell,"Capitol Records, Capitol Records","LP, Album, Los",,1968,13761988,Record Collection #106,2025-10-24 15:25:04,,,A
-"ST 2978, ST-2978",Glen Campbell,That Christmas Feeling,"Capitol Records, Capitol Records","LP, Album, RE, Win",,1971,3523210,Record Collection #111,2026-01-28 21:23:33,,,A
+"ST 2978, ST-2978",Glen Campbell,That Christmas Feeling,"Capitol Records, Capitol Records","LP, Album, RE, Win",,1971,3523210,Record Collection #111,2026-01-28 21:23:33,5,,A
 "SW 990, SW-990",Meredith Willson,Meredith Wilson's The Music Man - Original Cast,"Capitol Records, Capitol Records","LP, Album, RE, Scr",,1962,5517654,Record Collection #106,2025-10-24 15:02:07,,,
 "T 2482, T-2482",Charlie Louvin,Lonesome Is Me,"Capitol Records, Capitol Records","LP, Album, Mono",,1966,19517023,Record Collection #113,2026-02-02 18:54:31,,,
-"T768, T-768",Frank Sinatra,This Is Sinatra!,"Capitol Records, Capitol Records","LP, Comp, Mono, RE, Gol",,1962,10779354,Record Collection #114,2026-03-02 20:38:57,,,A
+"T768, T-768",Frank Sinatra,This Is Sinatra!,"Capitol Records, Capitol Records","LP, Comp, Mono, RE, Gol",,1962,10779354,Record Collection #114,2026-03-02 20:38:57,5,,A
 SW-11516,Glen Campbell,Bloodline,"Capitol Records, Haven Records","LP, Album, Jac",,1976,15497458,Record Collection #111,2026-01-23 13:41:35,,,A
-CP 0123,Dickey Betts,Highway Call,Capricorn Records,"LP, Album",,1974,6067657,Record Collection #114,2026-02-23 07:01:14,,,A
+CP 0123,Dickey Betts,Highway Call,Capricorn Records,"LP, Album",,1974,6067657,Record Collection #114,2026-02-23 07:01:14,7,,A
 CP 0125,Maxayn,Bail Out For Fun!,Capricorn Records,"LP, Album, Promo",,1974,5878550,Record Collection #114,2026-03-17 07:30:10,,,
 CPK 0180,The Marshall Tucker Band,Carolina Dreams,Capricorn Records,"LP, Album, Jac",,1977,8053706,Record Collection #103,2025-08-29 08:48:14,,,
 NBLP 7144,Village People,Go West,Casablanca,"LP, Album, 60/",,1979,3224757,Record Collection #106,2025-10-31 19:44:14,,,
@@ -125,7 +125,7 @@ NBLP 7239,Mac Davis,Texas In My Rear View Mirror,Casablanca,"LP, Album, PRC",,19
 "422-811 492-1 M1, 811492-1 M-1",Various,Flashdance (Original Soundtrack From The Motion Picture),"Casablanca, Casablanca","LP, Album, 53 ",,1983,2550803,Record Collection #105,2025-09-26 10:01:50,,,
 "NBLP 7119-2, NBLP 7119",Donna Summer,Live And More,"Casablanca, Casablanca","2xLP, Album, Ter",,1978,16110207,Record Collection #106,2025-10-24 14:43:26,,,
 "NBLP 7119-2, NBLP 7119",Donna Summer,Live And More,"Casablanca, Casablanca","2xLP, Album, Spe",,1978,833817,Record Collection #106,2025-10-27 19:23:20,,,
-CYS 1372,Norman Ponce,Norman Ponce,Caytronics,"LP, Album",,1973,13142972,Record Collection #111,2026-01-25 10:34:06,,,A
+CYS 1372,Norman Ponce,Norman Ponce,Caytronics,"LP, Album",,1973,13142972,Record Collection #111,2026-01-25 10:34:06,10,,A
 P14823,"Andy Williams, The Voices Of Christmas",Christmas With Andy Williams / Christmas With The Voices Of Christmas,CBS,"LP, Album, Comp",,1978,7744281,Record Collection #111,2026-01-23 13:16:28,,,
 M 35873,Various,Kramer Vs. Kramer (Soundtrack),CBS Masterworks,"LP, Comp, Ter",,1980,12681486,Record Collection #103,2025-08-29 11:23:37,,,
 M 36732,Liona Boyd,Miniatures For Guitar,CBS Masterworks,"LP, Pit",,1981,18852217,Record Collection #105,2025-09-26 11:43:00,,,A
@@ -134,15 +134,15 @@ P 15430,Various,Christmas Encores,"CBS, Columbia Special Products","LP, Comp",,1
 UTS-168,The Lone Riders,Cowboy Songs Of The West,Celebrity Records (3),"LP, Album",,0,13447470,Record Collection #106,2025-10-17 17:00:36,,,
 9133,The Trophies (2),Doggone It / Desire,Challenge,"7"", Promo",,1961,7292769,Record Collection #104,2025-10-03 13:28:32,,,
 CRS-5302,Heritage Singers USA,Thinking Back:  100 Year Old Gospel Favorites,Chapel,"LP, Album",,1976,13886558,Record Collection #111,2026-01-23 19:10:42,,,A
-CAR-6006,The Cam Floria Voices And Brass,The Sky Shall Unfold,Christian Artists Records,"LP, Album",,1981,4015559,Record Collection #113,2026-02-06 09:44:20,,,A
-CH2 1269,Ian Hunter,Welcome To The Club - Live,Chrysalis,"2xLP, Album, San",,1980,2378998,Record Collection #114,2026-03-31 08:54:09,,,A
-CHR 1089,Robin Trower,Robin Trower Live!,Chrysalis,"LP, Album",,1976,2156230,Individual Find,2025-12-12 08:52:06,,,A
+CAR-6006,The Cam Floria Voices And Brass,The Sky Shall Unfold,Christian Artists Records,"LP, Album",,1981,4015559,Record Collection #113,2026-02-06 09:44:20,5,,A
+CH2 1269,Ian Hunter,Welcome To The Club - Live,Chrysalis,"2xLP, Album, San",,1980,2378998,Record Collection #114,2026-03-31 08:54:09,5,,A
+CHR 1089,Robin Trower,Robin Trower Live!,Chrysalis,"LP, Album",,1976,2156230,Individual Find,2025-12-12 08:52:06,5,,A
 CHR-1148,Robin Trower,In City Dreams,Chrysalis,"LP, Album, San",,1977,1360193,Record Collection #103,2025-08-29 08:26:33,,,
 "CHR-1175, CHR 1175",Jethro Tull,Heavy Horses,"Chrysalis, Chrysalis","LP, Album, San",,1978,652122,Record Collection #111,2026-01-25 10:03:35,,,
 4-42336,Ronnie Mitchell,It's The Talk Of The Town / I Dreamed I Joined The Choir,Columbia,"7"", Promo",,0,23242985,Record Collection #104,2025-09-17 08:48:30,,,
 C 30411,Lynn Anderson,Rose Garden,Columbia,"LP, Album, Ter",,1971,2573292,Record Collection #111,2026-01-23 18:50:22,,,A
 C 30662,Vikki Carr,Vikki Carr's Love Story,Columbia,"LP, Album",,1971,1821756,Record Collection #111,2026-01-23 13:32:14,,,A
-C 30957,Lynn Anderson,The Christmas Album,Columbia,"LP, Album",,0,14311435,Record Collection #111,2026-01-23 13:26:24,,,A
+C 30957,Lynn Anderson,The Christmas Album,Columbia,"LP, Album",,0,14311435,Record Collection #111,2026-01-23 13:26:24,5,,A
 CL 1952,Frankie Yankovic And His Yanks,Your Favorite Polkas,Columbia,"LP, Album, Mono",,1963,6086629,Record Collection #109,2026-01-19 08:11:46,,,
 CL 6017,Gene Krupa And His Orchestra,Gene Krupa,Columbia,"10"", Album, RP",,0,11630149,Record Collection #107,2025-12-19 11:37:18,,,
 CL 6066,Gene Krupa And His Orchestra,Gene Krupa Dance Parade,Columbia,"10"", Comp",,1949,5204287,Record Collection #107,2025-12-19 11:50:07,,,
@@ -162,7 +162,7 @@ CS 9574,Jerry Vale,You Don't Have To Say You Love Me,Columbia,"LP, Album",,1968,
 CS 9612,Gary Puckett & The Union Gap,"Woman, Woman",Columbia,"LP, Album",,1968,31925707,Record Collection #111,2026-01-25 16:00:09,,,A
 CS 9666,Patti Page,Gentle On My Mind,Columbia,"LP, Album, Ter",,1968,4694068,Record Collection #111,2026-01-23 18:52:07,,,A
 CS 9704,The Dave Brubeck Trio Featuring Gerry Mulligan,Compadres,Columbia,"LP, Album",,1968,3045518,Record Collection #105,2025-09-24 08:45:01,,,
-FC 37052,Judas Priest,Point Of Entry,Columbia,"LP, Album, San",,1981,4822280,Record Collection #110,2026-01-19 07:20:31,,,A
+FC 37052,Judas Priest,Point Of Entry,Columbia,"LP, Album, San",,1981,4822280,Record Collection #110,2026-01-19 07:20:31,15,,A
 FC 39326,Ramsey Lewis & Nancy Wilson,The Two Of Us,Columbia,"LP, Album",,1984,1756141,Record Collection #105,2025-09-26 08:19:22,,,
 JS 1,Various,Columbia Jazz Festival,Columbia,"LP, Smplr",,1959,2977736,Record Collection #111,2026-01-23 18:03:15,,,
 KC 31470,Vikki Carr,Vikki Carr En Español: Los Exitos De Hoy Y De Siempre (The Hits Of Today And Always),Columbia,"LP, Album, Gat",,1972,2577409,Record Collection #111,2026-01-23 18:38:45,,,A
@@ -170,7 +170,7 @@ KC 31646,Sonny James,When The Snow Is On The Roses,Columbia,"LP, Album",,1972,32
 KC 32164,Percy Faith,Clair,Columbia,"LP, Album",,1973,1557192,Record Collection #111,2026-01-23 18:19:22,,,
 KC 32729,Alvin Lee & Mylon LeFevre,On The Road To Freedom,Columbia,"LP, Album, Gat",,1973,1577770,Record Collection #98,2026-04-01 22:26:05,,,A
 KC 33340,Vikki Carr,Hoy (Today),Columbia,"LP, Album",,1975,6928413,Record Collection #111,2026-01-23 13:14:30,,,A
-KCS 9914,Simon & Garfunkel,Bridge Over Troubled Water,Columbia,"LP, Album, San",,1970,605328,Record Collection #114,2026-03-03 08:05:39,,,A
+KCS 9914,Simon & Garfunkel,Bridge Over Troubled Water,Columbia,"LP, Album, San",,1970,605328,Record Collection #114,2026-03-03 08:05:39,5,,A
 KG 31494,Tony Bennett,All Time Greatest Hits,Columbia,"2xLP, Comp",,1972,3372734,Record Collection #106,2025-10-27 19:38:05,,,
 KG 32656,Vikki Carr,Live At The Greek Theatre,Columbia,"2xLP, Album",,1973,15797223,Record Collection #111,2026-01-28 21:40:12,,,A
 KGP 20,The Chambers Brothers,"Love, Peace And Happiness / Live At Bill Graham's Fillmore East",Columbia,"2xLP, Album, San",,1969,1635436,Record Collection #98,2026-04-01 22:24:23,,,
@@ -191,32 +191,31 @@ P 13282,André Kostelanetz And His Orchestra,Traces,Columbia Special Products,"L
 "PC 34200, 34200",Chicago (2),Chicago X,"Columbia, Columbia","LP, Album, San",,1976,9736518,Record Collection #106,2025-10-24 14:24:22,,,
 "PC 34680, 34680",Dave Mason,Let It Flow,"Columbia, Columbia","LP, Album, Ter",,1977,1386759,Record Collection #100,2025-07-28 12:52:16,,,A
 "PC 34917, 34917",Jane Olivor,Chasing Rainbows,"Columbia, Columbia","LP, Album, San",,1977,2430443,Record Collection #105,2025-09-26 14:24:23,,,A
-"60258-1, 9 60258-1",Jon Gibson,Standing On The One,"Constellation (2), Constellation (2)","LP, Album, Promo, All",,1983,15963121,Record Collection #95,2025-06-02 10:37:00,,,A
+"60258-1, 9 60258-1",Jon Gibson,Standing On The One,"Constellation (2), Constellation (2)","LP, Album, Promo, All",,1983,15963121,Record Collection #95,2025-06-02 10:37:00,15,,A
 MCA-5832,Klymaxx,Klymaxx,"Constellation (2), MCA Records","LP, Album, Glo",,1986,10370647,Record Collection #102,2025-08-11 14:19:50,,,A
 SD 5219,Stacy Lattisaw,Let Me Be Your Angel,Cotillion,"LP, Album, SP ",,1980,494246,Record Collection #116,2026-03-13 07:45:26,,,A
-"CST-346, CST 346",The Scottsville Squirrel Barkers,Blue Grass Favorites,"Crown Records (2), Crown Records (2)","LP, Album, RP",,1970,12801566,Record Collection #113,2026-02-02 18:02:39,,,A
+"CST-346, CST 346",The Scottsville Squirrel Barkers,Blue Grass Favorites,"Crown Records (2), Crown Records (2)","LP, Album, RP",,1970,12801566,Record Collection #113,2026-02-02 18:02:39,15,,A
 CTI 7071,Hubert Laws,The San Francisco Concert,CTI Records,"LP, Album",,1977,880992,Record Collection #96,2026-04-01 21:40:28,,,
 KU-06,Hank Crawford,Help Me Make It Through The Night,CTI Records,"LP, Album",,1972,7712629,Record Collection #98,2025-07-08 08:50:35,,,
-DBR 103,Danny Gaither,It Is Well With My Soul,Daybreak Records,LP,,1976,5361455,Record Collection #111,2026-01-23 18:25:44,,,A
+DBR 103,Danny Gaither,It Is Well With My Soul,Daybreak Records,LP,,1976,5361455,Record Collection #111,2026-01-23 18:25:44,10,,A
 DL 75146,David Clayton-Thomas,David Clayton-Thomas!,Decca,"LP, Album, Glo",,1969,1601786,Record Collection #93,2025-05-20 13:10:15,,,A
 SDLP-912,Lawrence Welk / Henry King (8) / Freddy Martin,Three Of A Kind (3 Top Stars Of Romantic Mood Music),Design Records (2),"LP, Comp",,0,6139295,Record Collection #111,2026-01-30 08:01:36,,,A
 10000,John F. Kennedy,John Fitzgerald Kennedy 1917-1963 (A Memorial Album),Diplomat Records,"LP, Album, Mono",,1963,1304407,Record Collection #111,2026-01-23 12:47:26,,,
 "DJ2L 50334, DJ2-L50334, 50334",Julio Iglesias,En Concierto,"Discos CBS International, Discos CBS International, Discos CBS International","2xLP, Album, Gat",,1983,4314630,Record Collection #106,2025-10-24 14:16:24,,,
-DR-004-D,"Paul Smith (5) With Monty Budwig, Frank Capp, Barney Kessel",The Good Life,Discwasher Recordings,"LP, Album",,1979,3007497,Record Collection #105,2025-09-24 09:33:32,,,A
+DR-004-D,"Paul Smith (5) With Monty Budwig, Frank Capp, Barney Kessel",The Good Life,Discwasher Recordings,"LP, Album",,1979,3007497,Record Collection #105,2025-09-24 09:33:32,5,,A
 DQ-1219,Unknown Artist,Babes In Toyland,Disneyland,"LP, Album",,1961,5045332,Record Collection #106,2025-10-24 14:14:51,,,
 45-16325,Little Luther,Steppin' High / Du Dee Squat,Dot Records,"7""",,1962,6992035,Record Collection #105,2025-10-01 07:31:04,,,
 DLP 3631,Eddie Fisher,Eddie Fisher Today!,Dot Records,"LP, Album, Mono",,1965,3686009,Record Collection #111,2026-01-23 18:45:59,,,A
 DOS-26010,Roy Clark,Come Live With Me,Dot Records,"LP, Album, Pre",,1973,1608445,Record Collection #106,2025-10-24 15:33:25,,,A
-DDW048LPX,Hatchie,Sugar & Spice,"Double Double Whammy, Ivy League","12"", S/Sided, EP, Etch",,2018,12061555,Record Collection #102,2025-08-11 15:11:37,,,A
+DDW048LPX,Hatchie,Sugar & Spice,"Double Double Whammy, Ivy League","12"", S/Sided, EP, Etch",,2018,12061555,Record Collection #102,2025-08-11 15:11:37,15,,A
 DS-50037,Steppenwolf,The Second,"Dunhill, ABC Records","LP, Album",,1968,2362461,Individual Find,2025-08-25 21:31:09,,,
 DS-50037,Steppenwolf,The Second,"Dunhill, ABC Records","LP, Album",,1968,2362461,Record Collection #106,2025-10-25 00:38:47,,,
 "DSX 50158, DSX-50158",Three Dog Night,Cyan,"Dunhill, Dunhill, ABC Records, ABC Records","LP, Album, Pit",,1973,13651060,Record Collection #106,2025-10-24 14:56:53,,,
 6E-128,Carly Simon,Boys In The Trees,Elektra,"LP, Album, SP-",,1978,905197,Record Collection #105,2025-09-22 21:37:40,,,
 6E-151,Carole Bayer Sager,...Too,Elektra,"LP, Album, SP ",,1978,1963980,Record Collection #113,2026-02-06 08:33:30,,,A
-6E-305,"Grover Washington, Jr.",Winelight,Elektra,"LP, Album, AR ",,1980,3835271,Individual Find,2025-10-20 08:41:32,,,A
+6E-305,"Grover Washington, Jr.",Winelight,Elektra,"LP, Album, AR ",,1980,3835271,Individual Find,2025-10-20 08:41:32,5,,A
 7E-1034,Tony Orlando & Dawn,"He Don't Love You, Like I Love You",Elektra,"LP, Album, San",,1975,8637674,Record Collection #96,2026-04-01 21:52:24,,,A
 7E-1076,Judy Collins,Bread & Roses,Elektra,"LP, San",,1976,9783154,Record Collection #105,2025-09-26 12:02:57,,,A
-7E-2002,The Incredible String Band,U,Elektra,"2xLP, San",,1970,914415,Individual Find,2025-05-07 06:32:22,,,
 E1-60122 F,Richard Simmons,Reach,Elektra,"LP, Album",,1982,1631515,Record Collection #100,2025-07-28 11:27:06,,,
 EKS-75030 ,Judy Collins,Colors Of The Day (The Best Of Judy Collins),Elektra,"LP, Comp, Pit",,1972,1905040,Record Collection #98,2026-04-01 22:26:57,,,A
 EM 1001,Lex De Azevedo,Saturday's Warrior,Embryo Records (6),2xLP,,1974,3295236,Record Collection #98,2025-07-08 14:37:02,,,A
@@ -228,7 +227,7 @@ E1-48057,Robert Palmer,Heavy Nova,EMI-Manhattan Records,"LP, Album, SRC",,1988,1
 ENS-1010,Isaac Hayes,The Isaac Hayes Movement,Enterprise,"LP, Album, Gat",,1970,491954,Individual Find,2026-03-23 07:06:12,,,
 BN 26078,The Village Stompers,The Original Washington Square,Epic,"LP, Album, Col",,1963,30947053,Record Collection #109,2026-01-19 10:18:06,,,
 BN 26098,Bobby Vinton,Bobby Vinton's Greatest Hits,Epic,"LP, Comp, RP",,1965,2196121,Record Collection #111,2026-01-30 07:48:29,,,A
-BN 26122,Bobby Vinton,A Very Merry Christmas,Epic,"LP, Album",,1964,9997541,Record Collection #111,2026-03-31 23:19:41,,,
+BN 26122,Bobby Vinton,A Very Merry Christmas,Epic,"LP, Album",,1964,9997541,Record Collection #111,2026-03-31 23:19:41,5,,
 BN 26154,Bobby Vinton,Bobby Vinton Sings For Lonely Nights,Epic,"LP, Album, Pit",,1965,35411959,Record Collection #109,2026-01-19 09:11:45,,,A
 BN 26517,Bobby Vinton,Bobby Vinton's Greatest Hits Of Love,Epic,"LP, Comp",,1970,13702234,Record Collection #111,2026-01-23 17:53:14,,,A
 FE 37996,Ricky Skaggs,Highways & Heartaches,Epic,"LP, Album, Pit",,1982,15151242,Record Collection #98,2025-07-08 13:51:42,,,A
@@ -250,20 +249,20 @@ BU4140,Various,The Idols,ERA Records,"LP, Comp",,1981,8647564,Record Collection 
 LPBR 5112,Randy Van Horne Singers,Sleighride,Everest,"LP, Mono",,1960,2726710,Record Collection #106,2025-10-24 15:02:41,,,A
 "3347, SDBR 3347 (E)",Various,Popular Koto Melodies Of Japan,"Everest, Everest",LP,,1973,1677530,Individual Find,2026-03-24 06:26:26,,,
 "LC-001, LC-002",Steve Long (7),Let It Be Tonight ,"Family Records (21), Family Records (21)","7"", Single",,0,6581579,Record Collection #92,2025-05-15 22:53:17,,,
-F-9548,Stanley Turrentine,West Side Highway,Fantasy,"LP, Album, Pit",,1978,19435705,Record Collection #114,2026-02-24 06:17:04,,,A
+F-9548,Stanley Turrentine,West Side Highway,Fantasy,"LP, Album, Pit",,1978,19435705,Record Collection #114,2026-02-24 06:17:04,5,,A
 FF 239,Trapezoid,Now & Then,Flying Fish (2),"LP, Album, PRC",,1980,17708767,Record Collection #108,2026-01-19 07:02:36,,,
 FF 280,Tom Paxton,Even A Gray Day,Flying Fish (2),"LP, Album",,1983,2945561,Record Collection #105,2025-09-26 12:53:04,,,A
-FR-8101,The Lundstroms,A Fresh Touch,Fresh Rain,"LP, Album",,1981,10594302,Uncategorized,2026-01-30 14:58:06,,,A
+FR-8101,The Lundstroms,A Fresh Touch,Fresh Rain,"LP, Album",,1981,10594302,Uncategorized,2026-01-30 14:58:06,10,,A
 FR-8202,Lundstrom Singers,Movin' Ahead,Fresh Rain,"LP, Album",,1982,5039893,Record Collection #111,2026-01-25 09:28:36,,,A
-FR-8902,Lundstrom Singers,Crusade Favorites,Fresh Rain,LP,,1989,6650217,Record Collection #111,2026-01-25 15:27:23,,,A
+FR-8902,Lundstrom Singers,Crusade Favorites,Fresh Rain,LP,,1989,6650217,Record Collection #111,2026-01-25 15:27:23,7,,A
 QE 38308,Dan Fogelberg,Greatest Hits,"Full Moon, Epic","LP, Comp, Car",,1982,1329690,Record Collection #96,2026-04-01 21:44:26,,,A
 QE 39004,Dan Fogelberg,Windows And Walls,"Full Moon, Epic","LP, Album, Car",,1984,1865428,Record Collection #105,2025-09-26 15:30:06,,,
-LP-2469,Flavia Band,Good-Bye Bambina,Gabor Records,"LP, Album",,1975,13254069,Record Collection #93,2025-05-20 09:47:32,,,A
-KZ 31991,The Intruders,Save The Children,Gamble,"LP, Album, San",,1973,1263917,Record Collection #102,2025-08-11 14:14:23,,,A
+LP-2469,Flavia Band,Good-Bye Bambina,Gabor Records,"LP, Album",,1975,13254069,Record Collection #93,2025-05-20 09:47:32,3,,A
+KZ 31991,The Intruders,Save The Children,Gamble,"LP, Album, San",,1973,1263917,Record Collection #102,2025-08-11 14:14:23,5,,A
 GHS 24042,Eric Carmen,Eric Carmen,Geffen Records,"LP, Album",,1984,14680017,Record Collection #97,2025-06-24 12:42:14,,,A
 GJ0003-1,Avid Dancer,1st Bath,Grand Jury,"LP, Ltd, mil",,2015,6999740,Record Collection #102,2025-08-11 15:15:08,,,
 GRAPEVINE 124,Dave & Dana,Morning Star,Grapevine (2),"LP, Album, Sky",,1978,24700508,Record Collection #111,2026-01-23 16:13:50,,,A
-2103-718,The Mills Brothers,The Very Best Of The Mills Brothers ,GRT,"2xLP, Comp",,1977,4438275,Record Collection #109,2026-01-19 10:22:02,,,A
+2103-718,The Mills Brothers,The Very Best Of The Mills Brothers ,GRT,"2xLP, Comp",,1977,4438275,Record Collection #109,2026-01-19 10:22:02,5,,A
 G 1403,Erroll Garner and Art Tatum / Mike Di Napoli,Piano Greats,Guest Star,"LP, Album, Comp, Mono",,1962,2652380,Record Collection #111,2026-01-23 15:53:39,,,
 GT-0043,George Jones (2),Good Old Bible,Gusto Records (2),"LP, Album, RE",,1978,4425892,Record Collection #111,2026-01-25 18:38:53,,,
 "GT 101, GT•101",Various,Thirty Years Of Bluegrass,"Gusto Records (2), Gusto Records (2), Lakeshore Music","2xLP, Comp, Red",,1977,6408230,Record Collection #111,2026-01-25 09:26:22,,,
@@ -271,16 +270,16 @@ HLP 12129,Tommy Jackson (2),Square Dance Jamboree!,Hamilton,LP,,1964,2897981,Rec
 HS 11249,Various,Golden Sounds Of Country Music,Harmony (4),"LP, Comp, RE",,1968,4840000,Record Collection #106,2025-10-17 16:55:06,,,A
 HS 11270,Jimmy Dean,The Country's Favorite Son,Harmony (4),"LP, Pit",,1968,6047233,Record Collection #106,2025-10-24 15:24:15,,,A
 SW-11783,Little River Band,Sleeper Catcher,Harvest,"LP, Album, Jac",,1978,4733130,Record Collection #106,2025-10-25 00:46:28,,,
-S1013,Heritage Singers USA,Let's Just Praise The Lord,Heritage Records (4),LP,,0,14400876,Record Collection #111,2026-01-23 16:16:22,,,A
+S1013,Heritage Singers USA,Let's Just Praise The Lord,Heritage Records (4),LP,,0,14400876,Record Collection #111,2026-01-23 16:16:22,10,,A
 HSR-130,Jan Garber And His Orchestra,"The Uncollected Jan Garber, 1939-1941",Hindsight Records (2),"LP, Album, Mono",,1978,4398108,Record Collection #97,2025-06-24 14:17:20,,,A
 none,Marvin Payne,Grasshopper,Homespun Records (6),"LP, Album",,1974,7392400,Record Collection #97,2025-07-07 15:57:06,,,A
-"R 3171, R3171","Bill & Gloria Gaither, Ronn Huff",Alleluia! A Praise Gathering for Believers,"Impact (7), Impact (7)","LP, Album",,1973,5322698,Record Collection #111,2026-01-23 19:14:30,,,A
+"R 3171, R3171","Bill & Gloria Gaither, Ronn Huff",Alleluia! A Praise Gathering for Believers,"Impact (7), Impact (7)","LP, Album",,1973,5322698,Record Collection #111,2026-01-23 19:14:30,5,,A
 "AK-179, AKS-179",The Charleston Trio,The Charleston Trio Sing Americana,"International Award Series, International Award Series",LP,,0,15861222,Record Collection #111,2026-01-25 18:28:49,,,A
 ISLA 2,Traffic,On The Road,Island Records,"2xLP, Album, RP",,1975,4454982,Record Collection #111,2026-01-23 15:58:19,,,
-"9-25448-1, 1-25448",Steve Winwood,Back In The High Life,"Island Records, Island Records","LP, Album, Spe",,1986,1428706,Record Collection #116,2026-03-13 07:13:35,,,A
-"JLS-3033, JLS 3033",Potliquor,Levee Blues,"Janus Records, Janus Records","LP, Album",,1971,2803737,Record Collection #114,2026-03-19 08:24:12,,,A
-JB-055,Norfolk & Western,A Gilded Age,Jealous Butcher Records,"LP, EP",,2006,959164,Record Collection #115,2026-03-09 12:38:45,,,A
-JSS-5002,Damascus Road,A Glimpse Of Freedom,JesuSongs,LP,,1977,7692768,Record Collection #111,2026-01-23 15:30:53,,,A
+"9-25448-1, 1-25448",Steve Winwood,Back In The High Life,"Island Records, Island Records","LP, Album, Spe",,1986,1428706,Record Collection #116,2026-03-13 07:13:35,5,,A
+"JLS-3033, JLS 3033",Potliquor,Levee Blues,"Janus Records, Janus Records","LP, Album",,1971,2803737,Record Collection #114,2026-03-19 08:24:12,7,,A
+JB-055,Norfolk & Western,A Gilded Age,Jealous Butcher Records,"LP, EP",,2006,959164,Record Collection #115,2026-03-09 12:38:45,10,,A
+JSS-5002,Damascus Road,A Glimpse Of Freedom,JesuSongs,LP,,1977,7692768,Record Collection #111,2026-01-23 15:30:53,10,,A
 JZ 35811,Magnum (3),Kingdom Of Madness,Jet Records,"LP, Album, M/Print, Promo",,1978,2235677,Record Collection #96,2026-04-01 21:53:23,,,
 "KZ 35604, 35604",Carl Perkins,Ol' Blue Suede's Back,"Jet Records, Jet Records","LP, Album, Pit",,1978,34744158,Record Collection #109,2026-01-19 10:30:42,,,A
 NE 948,Various,Disco Rocket,K-Tel,"LP, Album, Comp",,1976,784173,Record Collection #106,2025-10-27 19:34:02,,,
@@ -291,26 +290,26 @@ KLP 160,Phil Coulter,Classic Tranquility,K-Tel International,"LP, Album",,1983,8
 WU 3430,Various,SuperStars In Country Music,"K-Tel International (USA), Inc.","LP, Comp, 09",,1978,6429392,Record Collection #106,2025-10-24 15:38:00,,,A
 "NC 583, SL 8486",Frank Mills,The Magic Of Frank Mills,"K-Tel, Capitol Special Markets","LP, Album, Comp",,1984,6032681,Record Collection #97,2025-06-24 12:13:13,,,A
 KSBS 2073-2,Sha Na Na,The Golden Age Of Rock 'n' Roll,Kama Sutra,"2xLP, Album, Ter",,1973,1474244,Record Collection #93,2025-05-20 07:55:06,,,
-KSBS 2078,Ian Lloyd & Stories,Traveling Underground,Kama Sutra,"LP, Album, Son",,1973,6376017,Individual Find,2025-08-27 21:04:54,,,A
-"KLP-8056, KLP 8056",The Lovin' Spoonful,The Best Of The Lovin' Spoonful,"Kama Sutra, Kama Sutra","LP, Comp, Mono, Gat",,1967,1205127,Record Collection #111,2026-01-23 18:59:56,,,A
+KSBS 2078,Ian Lloyd & Stories,Traveling Underground,Kama Sutra,"LP, Album, Son",,1973,6376017,Individual Find,2025-08-27 21:04:54,5,,A
+"KLP-8056, KLP 8056",The Lovin' Spoonful,The Best Of The Lovin' Spoonful,"Kama Sutra, Kama Sutra","LP, Comp, Mono, Gat",,1967,1205127,Record Collection #111,2026-01-23 18:59:56,7,,A
 "KLPS-8054, KLPS 8054",The Lovin' Spoonful,Hums Of The Lovin' Spoonful,"Kama Sutra, Kama Sutra","LP, Album, Wad",,1966,3020780,Record Collection #111,2026-01-23 19:02:11,,,
-"KSBS 2068, KSBS-2068",Stories,About Us,"Kama Sutra, Kama Sutra","LP, Album, RP, Mon",,1973,8767707,Individual Find,2025-08-27 20:45:30,,,A
-"KLP-8058 ST, KLP-8058, KLP 8058",The Lovin' Spoonful,You're A Big Boy Now - The Original Sound Track Album,"Kama Sutra, Kama Sutra, Kama Sutra","LP, Album, Mono",,1967,2188892,Record Collection #111,2026-01-23 18:55:33,,,A
+"KSBS 2068, KSBS-2068",Stories,About Us,"Kama Sutra, Kama Sutra","LP, Album, RP, Mon",,1973,8767707,Individual Find,2025-08-27 20:45:30,5,,A
+"KLP-8058 ST, KLP-8058, KLP 8058",The Lovin' Spoonful,You're A Big Boy Now - The Original Sound Track Album,"Kama Sutra, Kama Sutra, Kama Sutra","LP, Album, Mono",,1967,2188892,Record Collection #111,2026-01-23 18:55:33,7,,A
 KL-1425,Billy Edd Wheeler,Memories Of America / Ode To The Little Brown Shack Out Back,Kapp Records,"LP, Album, Mono, Ind",,1964,3254769,Record Collection #108,2026-01-30 08:26:08,,,A
 KS-3336,Roger Williams (2),For You,Kapp Records,LP,,1963,2352797,Record Collection #109,2026-01-19 09:27:33,,,A
 KS-3550,Roger Williams (2),The Impossible Dream,Kapp Records,"LP, Album",,1968,5796397,Record Collection #106,2025-10-24 14:41:43,,,
 KM 152,John Renbourn & Stefan Grossman,Stefan Grossman & John Renbourn,Kicking Mule Records,"LP, Album",,1978,3124048,Individual Find,2025-12-12 09:01:23,,,
-KM 175,Chris Proctor,Runoff,Kicking Mule Records,"LP, Album",,1982,2543476,Record Collection #105,2025-09-26 15:20:11,,,A
+KM 175,Chris Proctor,Runoff,Kicking Mule Records,"LP, Album",,1982,2543476,Record Collection #105,2025-09-26 15:20:11,5,,A
 "KU-11, KUDU 11",Eric Gale,Forecast,"Kudu, Kudu","LP, Album",,1973,621401,Record Collection #114,2026-03-02 06:30:27,,,
 LES 4056,Various,15 Top Ten Hits: Volume One,Laurie Records,"LP, Comp",,1984,7331939,Record Collection #111,2026-01-25 15:41:13,,,A
-LAX 1051,Circle Jerks,Golden Shower Of Hits,LAX Records,"LP, Album",,1983,918590,Record Collection #116,2026-03-11 09:01:06,,,A
+LAX 1051,Circle Jerks,Golden Shower Of Hits,LAX Records,"LP, Album",,1983,918590,Record Collection #116,2026-03-11 09:01:06,45,,A
 18811,The Raindear Army,Subterranean Sunset / Aviator,Ledger Records,"7"", Single, Mono, Styrene",,1967,3866722,Uncategorized,2025-05-15 22:23:24,,,
 F-55413,Roosevelt Grier,Struttin' 'N Twistin' / Let The Cool Wind Blow,Liberty,"7"", Promo",,1962,4586065,Record Collection #104,2025-09-17 08:47:51,,,
 LP-9359,The Sunshine Company,Happy Is,Liberty,"LP, Mono, RE",,1970,34289884,Uncategorized,2025-09-22 07:08:26,,,
 LST-7464,Bobby Vee,Golden Greats Volume Two,Liberty,"LP, Comp",,1966,9168572,Record Collection #111,2026-01-25 15:55:45,,,A
 LST-7468,Gary Lewis & The Playboys,Golden Greats,Liberty,"LP, Comp, Gat",,1966,2895006,Record Collection #111,2026-01-25 09:38:57,,,A
 LST-7534,Bobby Vee And The Strangers (17),Come Back When You Grow Up,Liberty,"LP, Album",,1967,8947191,Record Collection #111,2026-01-25 15:57:49,,,
-LST-7646,Kentucky Express,Kentucky Express,Liberty,"LP, Album",,1970,6930184,Record Collection #97,2025-06-24 11:54:26,,,A
+LST-7646,Kentucky Express,Kentucky Express,Liberty,"LP, Album",,1970,6930184,Record Collection #97,2025-06-24 11:54:26,10,,A
 LT-51120,Michael Martin Murphey,Michael Martin Murphey,Liberty,"LP, Album, Los",,1982,1706536,Record Collection #105,2025-09-26 11:47:26,,,A
 LS 6002,Henry Gross,Release,Lifesong,"LP, Album, San",,1976,412730,Record Collection #93,2025-05-20 11:31:51,,,A
 LS-5679-LP,The Archers (3),...Things We Deeply Feel,Light Records,"LP, Album",,1975,4109881,Record Collection #105,2025-09-24 08:30:35,,,A
@@ -320,17 +319,17 @@ RPROLP 4471,Big Punisher,How We Roll,Loud Records,"12"", Promo",,2001,1169035,Re
 ST-53037,R.J.'s Latest Arrival,Hold On,Manhattan Records,"LP, Album, Spe",,1986,326593,Record Collection #102,2025-08-11 14:42:30,,,A
 HS-028,Erick Nelson (2),Flow River Flow,Maranatha! Music,"LP, Album",,1976,3575837,Record Collection #108,2026-01-19 07:08:06,,,A
 MM0107A,Praise Strings,The Best Of Praise Strings,Maranatha! Music,LP,,1983,34716066,Record Collection #111,2026-01-25 10:36:34,,,A
-MJS-57601,Ashley Alexander (2),Plays Frank Mantooth,Mark Records,"LP, Album",,1982,1927386,Record Collection #101,2025-08-05 10:35:11,,,A
+MJS-57601,Ashley Alexander (2),Plays Frank Mantooth,Mark Records,"LP, Album",,1982,1927386,Record Collection #101,2025-08-05 10:35:11,15,,A
 DO-2079,Freddy Fender (2),The Best Of Freddy Fender,MCA Records,"LP, Comp, RE, Pin",,0,19297321,Record Collection #111,2026-01-25 10:11:04,,,
 MCA 15037,Freddy Fender (2),Christmas Time In The Valley,MCA Records,LP,,1991,6522226,Record Collection #111,2026-01-25 10:17:16,,,A
 MCA-15024,Bing Crosby,Merry Christmas,MCA Records,"LP, RE, Tan",,1977,1901214,Record Collection #109,2026-01-19 07:59:44,,,
 MCA-2148,Olivia Newton-John,Clearly Love,MCA Records,"LP, Glo",,1975,1388290,Record Collection #98,2026-04-01 22:23:20,,,A
 MCA-2286,B.J. Thomas,B.J. Thomas,MCA Records,"LP, Pin",,1977,1381502,Record Collection #111,2026-01-23 17:51:07,,,A
-MCA-2314,Merle Haggard,My Farewell To Elvis,MCA Records,"LP, Album, Pin",,1977,12246502,Record Collection #111,2026-01-25 09:50:29,,,A
+MCA-2314,Merle Haggard,My Farewell To Elvis,MCA Records,"LP, Album, Pin",,1977,12246502,Record Collection #111,2026-01-25 09:50:29,5,,A
 MCA-371,Dobie Gray,Loving Arms,MCA Records,"LP, Album, Pin",,1973,10255500,Record Collection #105,2025-09-22 07:28:59,,,
 MCA-389,Olivia Newton-John,Let Me Be There,MCA Records,"LP, Album, Pin",,1973,2746730,Record Collection #106,2025-10-24 14:12:14,,,
-MCA-39066,"Leslie Bricusse, John Williams (4)","Goodbye, Mr Chips (Original Motion Picture Soundtrack)",MCA Records,"LP, Album, RE",,1986,8291316,Record Collection #111,2026-01-25 15:51:08,,,A
-MCA-5104,Elton John,Victim Of Love,MCA Records,"LP, Album, Mon",,1979,8808179,Record Collection #114,2026-03-06 09:11:14,,,A
+MCA-39066,"Leslie Bricusse, John Williams (4)","Goodbye, Mr Chips (Original Motion Picture Soundtrack)",MCA Records,"LP, Album, RE",,1986,8291316,Record Collection #111,2026-01-25 15:51:08,7,,A
+MCA-5104,Elton John,Victim Of Love,MCA Records,"LP, Album, Mon",,1979,8808179,Record Collection #114,2026-03-06 09:11:14,5,,A
 MCA-5130,Rossington Collins Band,"Anytime, Anyplace, Anywhere",MCA Records,"LP, Album, Glo",,1980,2136532,Record Collection #93,2025-05-20 13:51:39,,,A
 MCA-5136,Barbara Mandrell,Love Is Fair,MCA Records,"LP, Album, Pin",,1980,1902501,Record Collection #111,2026-01-23 13:47:15,,,A
 MCA-5185,Lalo Schifrin,The Competition (Music From The Original Motion Picture Soundtrack),MCA Records,LP,,1981,1367664,Record Collection #98,2025-07-08 10:53:26,,,A
@@ -353,15 +352,15 @@ MCA-396,Golden Earring,Moontan,"MCA Records, Track Record","LP, Album, RE, Glo",
 PPS 6012,The Clebanoff Strings,Exciting Sounds,Mercury,"LP, Album",,0,2377355,Record Collection #98,2025-07-08 10:31:37,,,A
 SRM-1-2001,Various,Endless Love Original Motion Picture Soundtrack,Mercury,"LP, Comp, Gat",,1981,1846118,Record Collection #106,2025-10-27 19:31:01,,,A
 SRM-1-4028,Bar-Kays,Nightcruising,Mercury,"LP, Album, 26 ",,1981,321257,Record Collection #89,2025-05-07 08:09:11,,,
-SRM-1-4054,Gary Brooker,Lead Me To The Water,Mercury,"LP, Album, 26 ",,1982,3709801,Record Collection #108,2025-12-30 10:46:01,,,A
+SRM-1-4054,Gary Brooker,Lead Me To The Water,Mercury,"LP, Album, 26 ",,1982,3709801,Record Collection #108,2025-12-30 10:46:01,5,,A
 SRM-1-5013,Jacky Ward,Rainbow,Mercury,"LP, Album",,1978,5132873,Record Collection #111,2026-01-28 21:36:27,,,A
-SRW 16280,Sarah Vaughan,The Magic Of Sarah Vaughan,Mercury Wing,"LP, Album, RP",,1959,8761163,Record Collection #111,2026-01-30 08:05:06,,,A
+SRW 16280,Sarah Vaughan,The Magic Of Sarah Vaughan,Mercury Wing,"LP, Album, RP",,1959,8761163,Record Collection #111,2026-01-30 08:05:06,5,,A
 "MGW 12322, MGW. 12322",Leroy Van Dyke,Movin' Van Dyke,"Mercury Wing, Mercury Wing","LP, Album, Mono, RE",,0,7921665,Record Collection #111,2026-01-23 13:39:43,,,A
 "SRW 16226, SRW-16226-W",The Platters,The Flying Platters,"Mercury Wing, Mercury Wing","LP, Album, RE",,1962,21136297,Record Collection #111,2026-01-25 16:06:20,,,A
 "422-818 835-1 M-1, 818 835-1 M-1",Big Country,Wonderland,"Mercury, Mercury","12"", EP, 26 ",,1984,646108,Record Collection #98,2025-07-08 15:47:55,,,A
 "MG-21064, SR-61064",Smothers Brothers,Play It Straight,"Mercury, Mercury","LP, Album, Mono",,1966,3193946,Record Collection #113,2026-02-06 09:07:06,,,
 "SR 61054, SR-61054",Horst Jankowski,More Genius Of Jankowski,"Mercury, Mercury","LP, Album",,1965,3635582,Record Collection #111,2026-01-23 16:28:19,,,A
-"SR 80005, 80005",Buddy Collette And His Swinging Shepherds,Buddy Collette's Swinging Shepherds,"Mercury, Mercury","LP, Album",,1958,3809327,Record Collection #113,2026-02-02 18:15:51,,,A
+"SR 80005, 80005",Buddy Collette And His Swinging Shepherds,Buddy Collette's Swinging Shepherds,"Mercury, Mercury","LP, Album",,1958,3809327,Record Collection #113,2026-02-02 18:15:51,7,,A
 "MER 2001, MGS 2634",Robert Goulet,I Never Did As I Was Told,"Merlin, MGM Records",LP,,1971,1982741,Record Collection #106,2025-10-24 14:54:31,,,A
 2353 063 ,Ian & Sylvia,Lovin' Sound,MGM Records,LP,,1972,6207000,Record Collection #96,2026-04-01 21:57:30,,,
 E-4167,Connie Francis,The Very Best Of Connie Francis,MGM Records,"LP, Comp, Mono, MGM",,1963,2938250,Record Collection #111,2026-02-06 12:24:48,,,A
@@ -372,7 +371,7 @@ SE-4168,Hank Williams,The Very Best Of Hank Williams,MGM Records,"LP, Comp",,196
 M3G 4968,Donny & Marie Osmond,I'm Leaving It All Up To You,"MGM Records, Kolob Records","LP, Album",,1974,11127908,Record Collection #106,2025-10-17 18:39:31,,,
 M3G 4968,Donny & Marie Osmond,I'm Leaving It All Up To You,"MGM Records, Kolob Records","LP, Album, Club",,1974,13286432,Record Collection #106,2025-10-24 15:04:48,,,A
 "SE 4886, SE-4886",Donny Osmond,Alone Together,"MGM Records, Kolob Records","LP, Album",,1973,13845213,Record Collection #106,2025-10-24 15:23:08,,,
-SE 4979,Marie Osmond,Who's Sorry Now,"MGM Records, Kolob Records","LP, Album",,1975,20354023,Record Collection #106,2025-10-27 19:25:15,,,A
+SE 4979,Marie Osmond,Who's Sorry Now,"MGM Records, Kolob Records","LP, Album",,1975,20354023,Record Collection #106,2025-10-27 19:25:15,5,,A
 "2SE-4826, 2 SE 4826",The Osmonds,The Osmonds Live,"MGM Records, MGM Records","2xLP, Gat",,1972,19365736,Record Collection #106,2025-10-27 19:27:06,,,A
 "M3G-4993, M3G 4993",The Osmonds,The Proud One,"MGM Records, MGM Records","LP, Album, H.V",,1975,14634305,Record Collection #106,2025-10-17 15:14:57,,,A
 "SE 4782, SE-4782",Donny Osmond,The Donny Osmond Album,"MGM Records, MGM Records","LP, Album",,1971,2044323,Record Collection #106,2025-10-24 15:22:25,,,
@@ -384,8 +383,8 @@ SE 4820,Donny Osmond,Portrait Of Donny,"MGM Records, MGM Records","LP, Album",,1
 "SE-4797, SE 4797",Donny Osmond,"To You With Love, Donny","MGM Records, MGM Records","LP, Album",,1971,6251212,Record Collection #106,2025-10-24 14:39:13,,,
 "SE-4797, SE 4797",Donny Osmond,"To You With Love, Donny","MGM Records, MGM Records","LP, Album",,1971,11071003,Record Collection #106,2025-10-27 19:34:38,,,
 A 120 061,Vladimir Cosma,Diva (Bande Originale Du Film),Milan,"LP, Album, Bla",,1981,8969451,Record Collection #95,2025-06-04 10:53:23,,,A
-M-9074,Sonny Rollins,The Way I Feel,Milestone (4),"LP, Album, San",,1977,25738108,Record Collection #115,2026-03-19 08:48:13,,,A
-WTG 19327,Kano,New York Cake,"Mirage (2), Emergency Records","LP, Album, SP ",,1981,32797002,Record Collection #114,2026-03-13 06:40:14,,,A
+M-9074,Sonny Rollins,The Way I Feel,Milestone (4),"LP, Album, San",,1977,25738108,Record Collection #115,2026-03-19 08:48:13,7,,A
+WTG 19327,Kano,New York Cake,"Mirage (2), Emergency Records","LP, Album, SP ",,1981,32797002,Record Collection #114,2026-03-13 06:40:14,10,,A
 SLP 18144,Boots Randolph,Hit Boots,Monument,LP,,1970,10170289,Uncategorized,2026-01-19 10:09:29,,,
 Z 30678,Boots Randolph,"Homer Louis Randolph, III",Monument,"LP, Album",,0,23469035,Record Collection #111,2026-01-25 10:25:05,,,A
 6007ML,Lionel Richie,Lionel Richie,Motown,"LP, Album, Sup",,1982,926898,Record Collection #98,2025-07-09 10:26:17,,,
@@ -393,48 +392,48 @@ Z 30678,Boots Randolph,"Homer Louis Randolph, III",Monument,"LP, Album",,0,23469
 M7-925R1,Billy Preston,Late At Night,Motown,"LP, Album, SRP",,1979,865840,Record Collection #100,2025-07-28 14:02:12,,,A
 "S-724, MS724",Diana Ross,Everything Is Everything,"Motown, Motown","LP, Album, Hol",,1970,12079990,Record Collection #111,2026-01-23 18:31:38,,,
 MW 102L,Thelma Houston,Thelma Houston,MoWest,"LP, Album",,1972,4780420,Record Collection #98,2026-04-01 22:32:02,,,A
-SPC 1506,Los Mensajeros De La Alegria,Navidades Blancas (White Christmas),Mr. Pickwick,"LP, Album",,1973,9560220,Record Collection #111,2026-01-23 19:17:15,,,A
-NWI 2791,Mark Jorg,Come Home My Son,Mt. Angel Abbey,"LP, Album",,1970,6103424,Individual Find,2026-01-13 08:06:03,,,A
+SPC 1506,Los Mensajeros De La Alegria,Navidades Blancas (White Christmas),Mr. Pickwick,"LP, Album",,1973,9560220,Record Collection #111,2026-01-23 19:17:15,5,,A
+NWI 2791,Mark Jorg,Come Home My Son,Mt. Angel Abbey,"LP, Album",,1970,6103424,Individual Find,2026-01-13 08:06:03,10,,A
 "MRS-5012, MRS 5012",Iain Matthews,Stealin' Home,"Mushroom Records (5), Mushroom Records (5)","LP, Album, Com",,1978,11168023,Record Collection #106,2025-11-21 07:09:03,,,A
-MOVLP2671,Gloria Estefan,"Hold Me, Thrill Me, Kiss Me","Music On Vinyl, Epic","LP, Album, Ltd, Num, RE, Whi",,2023,28781485,Record Collection #111,2026-03-31 23:38:58,,,A
+MOVLP2671,Gloria Estefan,"Hold Me, Thrill Me, Kiss Me","Music On Vinyl, Epic","LP, Album, Ltd, Num, RE, Whi",,2023,28781485,Record Collection #111,2026-03-31 23:38:58,20,,A
 MS 3251,The Platters,The Golden Hits Of The Platters,Musicor Records,"LP, Comp",,1973,11177724,Record Collection #111,2026-01-23 18:27:27,,,
 MS-3116,George Jones (2),George Jones Greatest Hits,Musicor Records,"LP, Comp, RE",,1967,9180354,Record Collection #106,2025-10-17 16:51:18,,,
 "MS 3102, MS3102",Gene Pitney,Greatest Hits Of All Times,"Musicor Records, Musicor Records","LP, Comp, Pit",,1966,33382124,Record Collection #111,2026-01-23 14:14:16,,,A
 9637-1,Yeasayer,Amen & Goodbye,Mute,"LP, Album, 180",,2016,8324601,Individual Find,2025-11-05 07:39:31,,,
-7-01-681506-4,Don Francisco (2),One Heart At A Time,Myrrh,"LP, Album",,1985,12072552,Record Collection #111,2026-01-23 14:43:20,,,A
+7-01-681506-4,Don Francisco (2),One Heart At A Time,Myrrh,"LP, Album",,1985,12072552,Record Collection #111,2026-01-23 14:43:20,5,,A
 MSB-6574,B.J. Thomas,Home Where I Belong,Myrrh,"LP, Album, Gat",,1976,1522967,Record Collection #111,2026-01-23 16:32:31,,,A
 MSB-6593,B.J. Thomas,Happy Man,Myrrh,LP,,1978,13169818,Record Collection #111,2026-01-23 15:17:42,,,A
 60153-1,Toronto (4),Get It On Credit,"Network Records (2), Solid Gold Records (2)","LP, Album, Promo",,1982,8598897,Individual Find,2025-10-06 11:26:19,,,
-NP33010,Don Francisco (2),Brother Of The Son,NewPax,LP,,1976,2058647,Record Collection #111,2026-01-23 15:10:48,,,A
-NP33106,Don Francisco (2),The Traveler,NewPax,"LP, Album",,1981,16066295,Record Collection #111,2026-01-23 13:22:34,,,A
-NP33144,Don Francisco (2),Holiness,NewPax,"LP, Album",,1984,1251210,Record Collection #111,2026-01-23 14:36:42,,,A
+NP33010,Don Francisco (2),Brother Of The Son,NewPax,LP,,1976,2058647,Record Collection #111,2026-01-23 15:10:48,5,,A
+NP33106,Don Francisco (2),The Traveler,NewPax,"LP, Album",,1981,16066295,Record Collection #111,2026-01-23 13:22:34,7,,A
+NP33144,Don Francisco (2),Holiness,NewPax,"LP, Album",,1984,1251210,Record Collection #111,2026-01-23 14:36:42,5,,A
 none,The Four R's,Sacred Seasons,Not On Label,LP,,1983,2214447,Record Collection #96,2026-04-01 21:32:41,,,A
 none,Young Ambassadors,A Brand New Day,Not On Label,LP,,0,15105275,Record Collection #96,2026-04-01 21:45:31,,,A
 USR 7560,Young Country,Young Country,Not On Label,"LP, Album",,1974,11533620,Record Collection #103,2025-08-29 07:45:50,,,
-yourmeteor001,Your Meteor,Byzantium,Not On Label,"LP, Album",,2015,27578067,Record Collection #105,2025-10-06 07:32:35,,,A
-none,Harvi Griffin,The Voice And Harp,Not On Label (Harvi Griffin Self-released),"LP, Album",,1970,5913093,Record Collection #114,2026-03-31 23:25:31,,,A
-Z12 44014,Spirit (8),The Family That Plays Together,Ode Records (2),"LP, Album, Pit",,1968,1271736,Record Collection #113,2026-02-01 11:55:57,,,A
+yourmeteor001,Your Meteor,Byzantium,Not On Label,"LP, Album",,2015,27578067,Record Collection #105,2025-10-06 07:32:35,10,,A
+none,Harvi Griffin,The Voice And Harp,Not On Label (Harvi Griffin Self-released),"LP, Album",,1970,5913093,Record Collection #114,2026-03-31 23:25:31,7,,A
+Z12 44014,Spirit (8),The Family That Plays Together,Ode Records (2),"LP, Album, Pit",,1968,1271736,Record Collection #113,2026-02-01 11:55:57,5,,A
 "Z12 44004, Z 1244004",Spirit (8),Spirit,"Ode Records (2), Ode Records (2)","LP, Album, San",,1968,7950831,Record Collection #106,2025-10-17 17:45:22,,,
-OKS 14111,The Vibrations,Shout!,Okeh,"LP, Album",,1965,4491941,Record Collection #86,2025-04-06 12:46:37,,,A
+OKS 14111,The Vibrations,Shout!,Okeh,"LP, Album",,1965,4491941,Record Collection #86,2025-04-06 12:46:37,15,,A
 LF904,Cris Williamson,The Changer And The Changed,Olivia Records (2),"LP, Album, RE",,1975,3164766,Record Collection #105,2025-09-22 19:44:34,,,A
-RBN-1-7074,Rand And Betty,Crisp Country Mornin',Oreana Enterprises,"LP, Album",,1977,14043456,Individual Find,2025-07-28 05:59:30,,,A
+RBN-1-7074,Rand And Betty,Crisp Country Mornin',Oreana Enterprises,"LP, Album",,1977,14043456,Individual Find,2025-07-28 05:59:30,15,,A
 LP 128,Apricot Music Pit Band,Jazzmania,Orion (5),"LP, Mono",,0,5934052,Individual Find,2026-01-13 07:50:47,,,
 OV-1719,The Kendalls,Heaven's Just A Sin Away,Ovation Records,"LP, Album, Club, RE, RCA",,1976,1424808,Record Collection #109,2026-01-19 09:49:37,,,A
 OV-1733,The Kendalls,Old Fashioned Love,Ovation Records,"LP, Album, Club, Ter",,1978,17508127,Record Collection #109,2026-01-19 09:47:41,,,A
-PR 33056,Truth (31),Now... This Is Christmas,Paragon (5),"LP, Album",,1978,6922477,Record Collection #111,2026-01-25 09:59:38,,,A
+PR 33056,Truth (31),Now... This Is Christmas,Paragon (5),"LP, Album",,1978,6922477,Record Collection #111,2026-01-25 09:59:38,5,,A
 "7214, PB 7214",Cabbage Patch Kids,A Cabbage Patch Christmas,"Parker Brothers Music, Parker Brothers Music","LP, Album",,1984,1216743,Record Collection #89,2025-05-07 07:10:56,,,
 XPAS 71012,Engelbert Humperdinck,Release Me,Parrot,"LP, Album",,1967,9642285,Record Collection #111,2026-01-23 13:36:16,,,A
 XPAS 71048,Engelbert Humperdinck,"Another Time, Another Place",Parrot,"LP, Album, Ter",,1971,19081597,Record Collection #111,2026-01-23 13:30:29,,,A
 "FZ 38443, PASHA 6",Quiet Riot,Metal Health,"Pasha, Pasha","LP, Album, Pit",,1983,12291703,Record Collection #106,2025-10-24 14:26:40,,,
 LPS 2214,Justin Wilson,Hunting With Justin Wilson,Paula Records,LP,,1972,2510491,Record Collection #109,2026-01-19 09:54:24,,,
 PR 7142,Dan Siegel,Reflections,Pausa Records,"LP, Album",,1983,4403645,Record Collection #108,2026-01-19 07:06:32,,,
-PR 7185,Les Hooper,Hoopla,Pausa Records,"LP, Album",,1985,3094323,Record Collection #101,2025-08-05 09:55:42,,,A
-PIAPTK - 248,S.M. Wolf,Bad Ocean,People In A Position To Know,"LP, Album, Sky",,2018,11974260,Record Collection #102,2025-08-11 15:21:17,,,A
-PLP-5,Floyd Westerman,Custer Died For Your Sins,Perception Records (5),"LP, Album, Gat",,1969,1896274,Record Collection #108,2026-01-30 08:23:29,,,A
+PR 7185,Les Hooper,Hoopla,Pausa Records,"LP, Album",,1985,3094323,Record Collection #101,2025-08-05 09:55:42,5,,A
+PIAPTK - 248,S.M. Wolf,Bad Ocean,People In A Position To Know,"LP, Album, Sky",,2018,11974260,Record Collection #102,2025-08-11 15:21:17,7,,A
+PLP-5,Floyd Westerman,Custer Died For Your Sins,Perception Records (5),"LP, Album, Gat",,1969,1896274,Record Collection #108,2026-01-30 08:23:29,7,,A
 8206,Irwin The Disco Duck And The Wibble Wabble Singers And Orchestra,Duck Wars: Big Hits Dance Party,Peter Pan Records,"LP, Album",,1978,922508,Record Collection #106,2025-10-17 14:47:07,,,
 KZ 32707,MFSB,Love Is The Message,Philadelphia International Records,"LP, Album",,1973,365838,Individual Find,2026-03-23 07:09:34,,,
-KZ 33157,Billy Paul,Got My Head On Straight,Philadelphia International Records,"LP, Album, San",,1975,1849696,Record Collection #89,2025-05-07 07:57:19,,,A
-"ST-53029, ST53029",Phyllis Hyman,Living All Alone,"Philadelphia International Records, Philadelphia International Records","LP, Album",,1986,712215,Record Collection #102,2025-08-11 14:09:18,,,A
+KZ 33157,Billy Paul,Got My Head On Straight,Philadelphia International Records,"LP, Album, San",,1975,1849696,Record Collection #89,2025-05-07 07:57:19,7,,A
+"ST-53029, ST53029",Phyllis Hyman,Living All Alone,"Philadelphia International Records, Philadelphia International Records","LP, Album",,1986,712215,Record Collection #102,2025-08-11 14:09:18,5,,A
 PHS 600-248,Paul Mauriat And His Orchestra,Blooming Hits,Philips,"LP, Album",,1967,2373459,Record Collection #98,2025-07-08 08:24:23,,,A
 PHS 600-342,The Mystic Moods Orchestra,Stormy Weekend,Philips,"LP, Album, RE",,1971,4848870,Record Collection #96,2026-04-01 22:11:29,,,
 SPC 1012,Various,Country Christmas,Pickwick,"LP, Album, Comp",,0,1624479,Record Collection #109,2026-01-19 08:57:17,,,A
@@ -454,16 +453,16 @@ PD-1-6099,Marie Osmond,This Is The Way That I Feel,"Polydor, Kolob Records","LP,
 "PD-1-6127, 2391 325",Donny & Marie Osmond,Winning Combination,"Polydor, Kolob Records","LP, Album, Mon",,1977,20790967,Record Collection #106,2025-10-17 15:18:16,,,A
 "25-3002, 2673 003",John Mayall,Back To The Roots,"Polydor, Polydor","2xLP, Album, Ind",,1971,35799115,Record Collection #111,2026-01-28 21:44:09,,,A
 "PD-1-6140, 2391 342",James Brown,Jam/1980's,"Polydor, Polydor","LP, Album, PRC",,1978,879090,Record Collection #89,2025-05-07 07:59:14,,,
-"PO-281, PO 281",Billy 'Crash' Craddock,I'm Tore Up,"Power Pak, Power Pak","LP, Album, RE",,1975,7031512,Record Collection #111,2026-01-30 08:39:21,,,A
+"PO-281, PO 281",Billy 'Crash' Craddock,I'm Tore Up,"Power Pak, Power Pak","LP, Album, RE",,1975,7031512,Record Collection #111,2026-01-30 08:39:21,7,,A
 PRL 14112,D-Train,Something's On Your Mind,Prelude Records,"LP, Album",,1984,462484,Record Collection #89,2025-05-07 07:21:38,,,
-PR 24019,Stan Getz,Stan Getz,Prestige,"2xLP, Comp, Pit",,1972,22261516,Record Collection #116,2026-03-24 06:35:37,,,A
+PR 24019,Stan Getz,Stan Getz,Prestige,"2xLP, Comp, Pit",,1972,22261516,Record Collection #116,2026-03-24 06:35:37,7,,A
 PS 2013,Starbuck (2),Moonlight Feels Right,Private Stock,"LP, Album, Ter",,1976,7436123,Record Collection #114,2026-02-27 09:26:24,,,
 "PR/5039SD, PR 5039 QD",The World's Greatest Jazzband Of Yank Lawson & Bob Haggart,Extra!,"Project 3, Project 3","LP, Album, Quad",,0,8749049,Record Collection #103,2025-08-29 09:36:30,,,A
 "1-23970, 9 23970-1",James Ingram,It's Your Night,"Qwest Records, Qwest Records","LP, Album, RP, Win",,0,12983550,Record Collection #98,2025-07-09 10:16:48,,,A
 MR-1042,Tommy Dorsey / Eddie Condon,Tommy Dorsey On Radio / Eddie Condon's Jazz Concert,Radiola,LP,,1975,4296803,Record Collection #93,2025-05-20 15:14:14,,,A
-RAG-1018,Country Joe McDonald,Childs Play,Rag Baby Records,LP,,1983,1688144,Record Collection #108,2025-12-30 12:05:53,,,A
+RAG-1018,Country Joe McDonald,Childs Play,Rag Baby Records,LP,,1983,1688144,Record Collection #108,2025-12-30 12:05:53,5,,A
 "R8080, R-8080",The Exotic Guitars,Exotic Country Music,"Ranwood, Ranwood","LP, Album, Mon",,1970,3156723,Record Collection #106,2025-10-17 15:50:29,,,
-R 534D,Rare Earth,Rare Earth In Concert,Rare Earth,"2xLP, Album, Hol",,1971,2985285,Record Collection #106,2025-10-24 14:17:25,,,A
+R 534D,Rare Earth,Rare Earth In Concert,Rare Earth,"2xLP, Album, Hol",,1971,2985285,Record Collection #106,2025-10-24 14:17:25,5,,A
 AJL1-7023,Kenny Rogers,The Heart Of The Matter,RCA,"LP, Album",,1985,3030279,Record Collection #106,2025-10-24 14:45:26,,,
 ANL1-3014,Jim Reeves,Pure Gold - Volume One,RCA,"LP, Comp, Ind",,1978,9854139,Record Collection #111,2026-01-23 14:47:27,,,A
 APL1-0346,Porter Wagoner,The Farmer,RCA,"LP, Album",,1973,4513184,Record Collection #98,2026-04-01 22:35:13,,,A
@@ -493,9 +492,9 @@ APL1-2781,Jim Ed Brown & Helen Cornelius,I'll Never Be Free,RCA Victor,"LP, Albu
 APM1-1675,Elvis Presley,The Sun Sessions,RCA Victor,"LP, Comp, Mono, RE",,1976,4698773,Record Collection #111,2026-01-23 13:01:25,,,
 AYL1-3845,Kate Smith (2),The Best Of Kate Smith,RCA Victor,"LP, Comp, RE",,0,3344478,Record Collection #111,2026-01-28 21:42:08,,,A
 CPL2-1014,Various,In Concert With Host Charley Pride,RCA Victor,"2xLP, Album, Ind",,1975,1587568,Record Collection #109,2026-01-19 08:37:40,,,
-LPM 1323,Tony Travis (2),I See Your Face Before Me,RCA Victor,"LP, Mono",,1957,11131528,Record Collection #111,2026-02-06 13:34:41,,,A
+LPM 1323,Tony Travis (2),I See Your Face Before Me,RCA Victor,"LP, Mono",,1957,11131528,Record Collection #111,2026-02-06 13:34:41,A,,A
 LPM-2852,Brother Dave Gardner,The Best Of Dave Gardner,RCA Victor,"LP, Comp, Mono, Ind",,1964,5316199,Record Collection #109,2026-01-19 09:52:00,,,A
-LSP 2162,Floyd Robinson,Floyd Robinson,RCA Victor,"LP, Album",,1960,7471970,Record Collection #111,2026-01-25 18:57:03,,,A
+LSP 2162,Floyd Robinson,Floyd Robinson,RCA Victor,"LP, Album",,1960,7471970,Record Collection #111,2026-01-25 18:57:03,7,,A
 LSP 3425,Frankie Carle And His Orchestra,Frankie Carle Plays The Great Piano Hits,RCA Victor,LP,,1965,1525214,Record Collection #111,2026-01-25 10:45:11,,,A
 LSP-1466,Eddie Heywood,The Touch Of Eddie Heywood,RCA Victor,"LP, Album, Ind",,1958,11792524,Record Collection #113,2026-02-02 18:21:41,,,
 LSP-2758,Jim Reeves,Twelve Songs Of Christmas,RCA Victor,"LP, Album, 1st",,1963,2376177,Record Collection #109,2026-01-19 09:08:53,,,A
@@ -509,7 +508,7 @@ LSP-4016,Perry Como,The Perry Como Christmas Album,RCA Victor,"LP, Ind",,1968,14
 LSP-4223,Charley Pride,The Best Of Charley Pride,RCA Victor,"LP, Comp, RE, Ind",,0,2448893,Record Collection #109,2026-01-19 08:44:19,,,
 LSP-4406,Charley Pride,Christmas In My Home Town,RCA Victor,"LP, Album, Ind",,1970,3074607,Record Collection #109,2026-01-19 08:34:17,,,
 LSP-4593,Buddy Rich,A Different Drummer,RCA Victor,"LP, Album, Dyn",,1971,12783058,Record Collection #101,2025-08-05 09:39:18,,,
-MKS-3021,Roberto Jordan,Roberto Jordan,RCA Victor,"LP, Album",,1972,12334121,Record Collection #111,2026-01-23 16:23:17,,,A
+MKS-3021,Roberto Jordan,Roberto Jordan,RCA Victor,"LP, Album",,1972,12334121,Record Collection #111,2026-01-23 16:23:17,5,,A
 VPS-6017,Various,The Best Of Today's Country Hits,RCA Victor,"2xLP, Comp, Ind",,1969,4338147,Record Collection #106,2025-10-24 14:37:40,,,A
 VPS-6032,Eddy Arnold,This Is Eddy Arnold,RCA Victor,"2xLP, Comp, Gat",,1972,16741731,Record Collection #109,2026-01-19 10:14:38,,,A
 VPS-6067,Perry Como With The Ray Charles Singers With The Anita Kerr Singers,This Is Perry Como Vol. 2,RCA Victor,"2xLP, Comp, RM",,1972,3510996,Record Collection #111,2026-01-28 21:47:24,,,
@@ -531,7 +530,7 @@ MS 2253,The Stills-Young Band,Long May You Run,Reprise Records,"LP, Album, Ter",
 "R-20,096",Jim Mitchum,Toast Of The Teardrop / Tears Of Love,Reprise Records,"7"", Promo",,1962,15899981,Record Collection #105,2025-10-03 13:34:30,,,
 "RS-6165, RS 6165",Trini Lopez,The Love Album,"Reprise Records, Reprise Records","LP, Album",,1964,2778590,Record Collection #96,2026-04-01 22:06:04,,,A
 RR182,The New American Guitar Ensemble : Lewis Ross (2),A Collection Of Favourite Christmas Carols,Revere Records (2),"LP, Album",,1983,2882440,Record Collection #105,2025-09-26 13:13:18,,,
-RMR 8301,Ron Williams,I'll Never Be The Same ,RMR Productions Inc.,"LP, Album",,1983,7765989,Record Collection #109,2026-01-19 07:57:23,,,A
+RMR 8301,Ron Williams,I'll Never Be The Same ,RMR Productions Inc.,"LP, Album",,1983,7765989,Record Collection #109,2026-01-19 07:57:23,15,,A
 R-2180,Various,Ronco Presents Disco Fever,Ronco,"LP, Comp",,1978,1769596,Record Collection #106,2025-10-24 15:19:47,,,
 "SR 42044, SR-42044",Tommy James & The Shondells,Travelin',"Roulette, Roulette","LP, Album, Gat",,1970,2248261,Record Collection #106,2025-10-24 14:38:18,,,
 RS-1-3039,Eric Clapton,Backless,RSO,"LP, Album, San",,1978,10289349,Record Collection #111,2026-01-23 12:54:03,,,
@@ -545,11 +544,11 @@ SPS 5108,B.J. Thomas,Country,Scepter Records,"LP, Comp",,1972,3814326,Record Col
 SPS 5108,B.J. Thomas,Country,Scepter Records,"LP, Comp",,1972,3814326,Record Collection #111,2026-01-23 17:49:27,,,A
 "SPS 2-596, SPS-2-596",Dionne Warwick,The Dionne Warwicke Story (A Decade Of Gold),"Scepter Records, Scepter Records","2xLP, Album, Tex",,1971,9753473,Record Collection #111,2026-01-28 21:58:18,,,
 "SPS 5118, SPS-5118",Eddie Kochak,Strictly Belly Dancing Volume 2,"Scepter Records, Scepter Records","LP, Album, She",,1975,22906337,Record Collection #93,2025-05-20 11:36:21,,,A
-SCP019800,Richard Pugh,Turn Me Around,SCP Records,LP,,1981,22757276,Record Collection #89,2025-05-11 16:11:37,,,A
+SCP019800,Richard Pugh,Turn Me Around,SCP Records,LP,,1981,22757276,Record Collection #89,2025-05-11 16:11:37,10,,A
 LP 22003,Tret Fure,Terminal Hold,Second Wave Records,"LP, Album",,1984,3717965,Record Collection #105,2025-09-22 07:25:05,,,A
 LP22001,"Teresa Trull, Barbara Higbie",Unexpected,Second Wave Records,LP,,1983,3079016,Record Collection #105,2025-09-26 10:25:18,,,A
-"LP-101, SIERRA-LP-101",Jay Gardner (2) And  The Wranglers (3),Some Favorites Of Mine,"Sierra Records (10), Sierra Records (10)","LP, Album",,1964,14029365,Record Collection #114,2026-03-02 19:12:40,,,A
-SK-15,Lena Horne & Gabor Szabo,Lena & Gabor,Skye Records,"LP, Album",,1970,1146653,Record Collection #96,2025-06-16 18:26:12,,,A
+"LP-101, SIERRA-LP-101",Jay Gardner (2) And  The Wranglers (3),Some Favorites Of Mine,"Sierra Records (10), Sierra Records (10)","LP, Album",,1964,14029365,Record Collection #114,2026-03-02 19:12:40,10,,A
+SK-15,Lena Horne & Gabor Szabo,Lena & Gabor,Skye Records,"LP, Album",,1970,1146653,Record Collection #96,2025-06-16 18:26:12,5,,A
 SF-23000,The Mustang (2),The Beatles Song Book,Somerset,"LP, Album",,1965,8159863,Record Collection #109,2026-01-19 10:02:17,,,
 BVL1-2270,The Whispers,Open Up Your Love,Soul Train,"LP, Album",,1977,1501219,Record Collection #102,2025-08-11 13:17:56,,,
 S-3017,Dave & Dana,Come On In,Sound III,"LP, Album",,1977,13090418,Record Collection #111,2026-01-23 12:43:34,,,
@@ -557,20 +556,20 @@ DE-78,Deanna Edwards,"Music, Laughter & Tears",Sounds Of Hope,"LP, Gat",,1978,11
 M 129,Slim Boyd,Hits Made Famous By Hank Williams,Spin-O-Rama,"LP, Album, Mono",,0,8174819,Record Collection #106,2025-10-24 15:05:43,,,
 SPB-4032,Dionne Warwick,More Greatest Hits,Springboard,"LP, Comp",,1977,3792398,Record Collection #111,2026-01-23 18:29:18,,,A
 "SPB-4047, SPB 4047",Ferrante & Teicher,The Soft Touch,"Springboard, Springboard","LP, Comp, RE",,1973,20521879,Record Collection #111,2026-01-30 08:20:31,,,A
-SSR 8100,Don Francisco (2),High Praise,Star Song,"LP, Album",,1988,10742420,Record Collection #111,2026-01-25 15:20:37,,,A
-SP1127,Daughn Gibson,Carnation,Sub Pop,"LP, Album",,2015,7079177,Record Collection #95,2025-06-02 09:59:14,,,A
+SSR 8100,Don Francisco (2),High Praise,Star Song,"LP, Album",,1988,10742420,Record Collection #111,2026-01-25 15:20:37,5,,A
+SP1127,Daughn Gibson,Carnation,Sub Pop,"LP, Album",,2015,7079177,Record Collection #95,2025-06-02 09:59:14,7,,A
 SUN 1001,Elvis Presley,Interviews And Memories Of:  The Sun Years,Sun (9),"LP, Album, P/Mixed",,1977,13212216,Record Collection #111,2026-01-23 12:57:45,,,
 SUS-5132,Bud Shank,I Hear Music,Sunset Records,"LP, Comp",,1966,3449133,Record Collection #113,2026-02-01 12:09:27,,,A
-SS&R-1003,Sunshade 'N Rain,Naturally,Sunshade 'n Rain Enterprises,"LP, Album",,1975,10029389,Record Collection #111,2026-01-23 17:55:21,,,A
+SS&R-1003,Sunshade 'N Rain,Naturally,Sunshade 'n Rain Enterprises,"LP, Album",,1975,10029389,Record Collection #111,2026-01-23 17:55:21,5,,A
 SS 8504,Detective,It Takes One To Know One,Swan Song,"LP, Album, RI",,1977,2072251,Record Collection #91,2025-05-14 08:38:26,,,A
-MS-002,Mike Snider (3),Live at the Station Inn,Tater Town Records,"LP, Album",,1986,7752144,Record Collection #107,2025-12-19 11:55:04,,,A
+MS-002,Mike Snider (3),Live at the Station Inn,Tater Town Records,"LP, Album",,1986,7752144,Record Collection #107,2025-12-19 11:55:04,7,,A
 NB1-33232,Richard 'Dimples' Fields,Dimples,The Boardwalk Entertainment Co,"LP, Album",,1981,460916,Record Collection #89,2025-05-07 07:15:42,,,A
 D-3,"Cris Williamson, Jackie Robbins (2), June Millington",Live Dream,"The Dream Machine (3), Olivia Records (2)",LP,,1978,2688451,Record Collection #105,2025-09-22 19:36:58,,,A
 THS 7,The Moody Blues,Seventh Sojourn,Threshold (5),"LP, Album, W -",,1972,1875478,Record Collection #116,2026-03-14 08:30:34,,,A
 THS-11,Trapeze Featuring Glenn Hughes,The Final Swing,Threshold (5),"LP, Comp",,1974,8681858,Record Collection #93,2025-05-20 09:13:02,,,
 THRILL 281,Catherine Irwin,Little Heater,Thrill Jockey,"LP, Album",,2012,3902232,Uncategorized,2025-06-02 10:03:26,,,
 "S/2107, 2107",Hargus Robbins,A Bit Of Country Piano,"Time Records (3), Time Records (3)","LP, Album",,1963,11526206,Record Collection #98,2025-07-08 12:02:00,,,A
-GFB 7408,Dorothy Matar,Golden Bells,Tom Britton & Associates,LP,,1972,9421550,Record Collection #97,2025-06-27 08:27:18,,,A
+GFB 7408,Dorothy Matar,Golden Bells,Tom Britton & Associates,LP,,1972,9421550,Record Collection #97,2025-06-27 08:27:18,7,,A
 TRC 910,No Artist,Miscellaneous,Total Recording,LP,,0,6472859,Record Collection #93,2025-05-20 14:30:55,,,
 DT 5060,Laurindo Almeida,Acapulco '22,Tower,"LP, Album",,1967,403980,Record Collection #98,2025-07-07 20:16:37,,,
 "2077, TR 2077",Various,Anthology Of The Banjo,"Tradition Everest, Tradition Everest","LP, Comp",,0,2332937,Record Collection #96,2026-04-01 21:59:47,,,
@@ -584,23 +583,23 @@ UA-LA771-G,Crystal Gayle,We Must Believe In Magic,United Artists Records,"LP, Al
 UA-LA787-G,Slim Whitman,Home On The Range,United Artists Records,"LP, Album",,1978,4020308,Record Collection #111,2026-01-28 21:31:52,,,A
 UA-LA857-H,The Tim Weisberg Band,Rotations,United Artists Records,"LP, Album",,1978,1323550,Record Collection #98,2025-07-07 21:04:50,,,A
 UA-LA858-H,Crystal Gayle,When I Dream,United Artists Records,"LP, Album, Ter",,1978,9794275,Record Collection #111,2026-01-23 18:43:34,,,A
-UA-LA881-H,Ronnie Laws,Flame,United Artists Records,"LP, Album, Ter",,1978,1183587,Record Collection #116,2026-03-14 08:51:34,,,A
+UA-LA881-H,Ronnie Laws,Flame,United Artists Records,"LP, Album, Ter",,1978,1183587,Record Collection #116,2026-03-14 08:51:34,5,,A
 UA-LA916-H,Brass Construction,Brass Construction IV,United Artists Records,"LP, Album, Ter",,1978,13563950,Record Collection #89,2025-05-07 08:23:22,,,
 UAS 5504,Traffic,John Barleycorn Must Die,United Artists Records,"LP, Album, Res",,1970,945992,Record Collection #111,2026-01-23 15:39:41,,,
 UAS 6269,Ferrante & Teicher,Golden Piano Hits,United Artists Records,"LP, Album",,1963,17075058,Record Collection #111,2026-01-23 14:32:32,,,A
 UAS 6483,Ferrante & Teicher,For Lovers Of All Ages,United Artists Records,"LP, Album",,1966,21971329,Record Collection #111,2026-01-25 09:48:22,,,A
 UAS-5581,Vikki Carr,The Best Of Vikki Carr,United Artists Records,"LP, Comp",,1972,2907888,Record Collection #111,2026-01-23 19:24:22,,,A
-UAS-9962,Bob Wills & Tommy Duncan,Hall Of Fame,United Artists Records,"2xLP, Comp, Ter",,1972,13113710,Record Collection #111,2026-01-23 14:30:11,,,A
+UAS-9962,Bob Wills & Tommy Duncan,Hall Of Fame,United Artists Records,"2xLP, Comp, Ter",,1972,13113710,Record Collection #111,2026-01-23 14:30:11,7,,A
 "B0034554-01LP01, B0033659-05LP01, B0044622-03LP01",J. Balvin,JOSE,"Universal Music, Sueños Globales, LLC, Reprise Records","LP, Blu + LP, Pur + Album, Ltd",,2021,21074200,Record Collection #105,2025-09-24 07:00:54,,,
-VSD-6570/1,Joan Baez,Blessed Are...,Vanguard,"2xLP + 7"" + Album",,1971,14852838,Record Collection #111,2026-01-25 18:34:40,,,A
+VSD-6570/1,Joan Baez,Blessed Are...,Vanguard,"2xLP + 7"" + Album",,1971,14852838,Record Collection #111,2026-01-25 18:34:40,5,,A
 VSD-79347,The Roto Rooter Good Time Christmas Band,The Roto Rooter Good Time Christmas Band,Vanguard,"LP, Album",,1974,2876597,Record Collection #113,2026-02-02 18:56:14,,,
 V-8691,Kai Winding,Penny Lane & Time,Verve Records,"LP, Album, Gat",,0,15708896,Record Collection #113,2026-02-02 18:28:09,,,
 V6-5031,The Righteous Brothers,Souled Out,Verve Records,"LP, Album, MGM",,1967,2293701,Record Collection #97,2025-06-24 11:36:02,,,A
 V6-8676,Walter Wanderley Trio,Cheganca,Verve Records,"LP, Album, Gat",,1967,399542,Record Collection #113,2026-02-02 18:49:56,,,
 V6-8786,Gary McFarland,Sympathetic Vibrations,Verve Records,"LP, Album, RE, MGM",,1969,2873882,Record Collection #113,2026-02-02 18:24:44,,,
-"V-8652, V/8652",Jimmy Smith,Peter & The Wolf,"Verve Records, Verve Records","LP, Album, Mono, Gat",,1966,2894486,Record Collection #105,2025-09-26 15:16:55,,,A
-"V6-8785, V6/8785",Lalo Schifrin,Insensatez,"Verve Records, Verve Records","LP, Album, RE",,1968,1253397,Record Collection #107,2025-12-19 12:19:30,,,A
-0-96668,Johnny Hates Jazz,Shattered Dreams,Virgin,"12"", Single, All",,1988,16150381,Record Collection #105,2025-09-22 21:07:58,,,A
+"V-8652, V/8652",Jimmy Smith,Peter & The Wolf,"Verve Records, Verve Records","LP, Album, Mono, Gat",,1966,2894486,Record Collection #105,2025-09-26 15:16:55,5,,A
+"V6-8785, V6/8785",Lalo Schifrin,Insensatez,"Verve Records, Verve Records","LP, Album, RE",,1968,1253397,Record Collection #107,2025-12-19 12:19:30,10,,A
+0-96668,Johnny Hates Jazz,Shattered Dreams,Virgin,"12"", Single, All",,1988,16150381,Record Collection #105,2025-09-22 21:07:58,5,,A
 VR 13-105,Mike Oldfield,Tubular Bells,Virgin,"LP, Album, RI ",,1973,3020834,Record Collection #114,2026-03-03 08:28:37,,,
 VL 73860,Earl Grant,Send For Me,Vocalion (2),"LP, Album, Glo",,1969,19682464,Record Collection #106,2025-10-24 14:52:58,,,A
 "VL-73925, VL 73925",Loretta Lynn,Alone With You,"Vocalion (2), Vocalion (2)","LP, Comp, Pin",,1972,7046434,Record Collection #111,2026-01-25 09:32:57,,,A
@@ -614,7 +613,7 @@ WS 1765,Petula Clark,"Petula Clark's Greatest Hits, Vol. 1",Warner Bros. - Seven
 BS 2629,Seals & Crofts,Summer Breeze,Warner Bros. Records,"LP, Album, Ter",,1972,11821486,Record Collection #106,2025-10-24 14:42:40,,,
 BS 2864,Bonnie Raitt,Home Plate,Warner Bros. Records,"LP, Album, RE, Win",,1979,9023363,Record Collection #97,2025-06-24 13:11:49,,,
 BS 2868,Gary Wright,The Dream Weaver,Warner Bros. Records,"LP, Album, Los",,1976,4923686,Record Collection #111,2026-01-25 10:05:52,,,A
-BS 2968,Stuff (2),Stuff,Warner Bros. Records,"LP, Album, Los",,1976,13154186,Record Collection #114,2026-03-26 07:35:47,,,A
+BS 2968,Stuff (2),Stuff,Warner Bros. Records,"LP, Album, Los",,1976,13154186,Record Collection #114,2026-03-26 07:35:47,7,,A
 BSK 3089,Leo Sayer,Thunder In My Heart,Warner Bros. Records,"LP, Album, Gol",,1977,1658389,Individual Find,2025-07-31 08:06:54,,,A
 BSK 3089,Leo Sayer,Thunder In My Heart,Warner Bros. Records,"LP, Album, Jac",,1977,12218503,Record Collection #111,2026-01-30 08:09:23,,,A
 BSK 3101,Leo Sayer,Endless Flight,Warner Bros. Records,"LP, Album, RE, Gol",,1977,11043426,Record Collection #111,2026-01-30 08:10:50,,,
@@ -623,14 +622,14 @@ BSK 3296,Rickie Lee Jones,Rickie Lee Jones,Warner Bros. Records,"LP, Album, Qua"
 BSK 3365,Seals & Crofts,The Longest Road,Warner Bros. Records,"LP, Album, Win",,1980,18551206,Record Collection #105,2025-09-24 08:38:58,,,A
 BSK 3383,Christopher Cross,Christopher Cross,Warner Bros. Records,"LP, Album, Los",,1979,10489332,Record Collection #105,2025-09-22 07:20:24,,,
 BSK 3385,Chaka Khan,Naughty,Warner Bros. Records,"LP, Album, Los",,1980,12749042,Record Collection #102,2025-08-11 14:26:28,,,
-BSK 3484,Emmylou Harris,Light Of The Stable-The Christmas Album,Warner Bros. Records,"LP, Album, Win",,1980,12352025,Record Collection #106,2025-10-24 14:57:39,,,A
+BSK 3484,Emmylou Harris,Light Of The Stable-The Christmas Album,Warner Bros. Records,"LP, Album, Win",,1980,12352025,Record Collection #106,2025-10-24 14:57:39,5,,A
 BSK 3576,Al Jarreau,Breakin' Away,Warner Bros. Records,"LP, Album, Club",,1981,11885017,Record Collection #89,2025-05-06 07:58:54,,,A
 I-23757,Christopher Cross,Another Page,Warner Bros. Records,"LP, Album",,1983,10695638,Record Collection #106,2025-10-24 15:11:49,,,A
 KBS 3101,Leo Sayer,Endless Flight,Warner Bros. Records,"LP, Album",,1976,1747304,Individual Find,2025-07-31 08:06:41,,,
 WS 1615,"Peter, Paul & Mary",See What Tomorrow Brings,Warner Bros. Records,"LP, Album, Gol",,1965,2359732,Record Collection #105,2025-09-26 06:45:19,,,
 BS 2877,Manfred Mann's Earth Band,Nightingales & Bombers,"Warner Bros. Records, Bronze","LP, Album, San",,1975,9067947,Record Collection #93,2025-05-20 08:16:03,,,A
 BSK 3262,Stuff (2),Stuff It!,"Warner Bros. Records, Just Sunshine Records","LP, Album, Jac",,1979,11092771,Record Collection #114,2026-03-26 07:36:50,,,A
-"1-25116, 9 25116-1",Randy Newman,The Natural,"Warner Bros. Records, Warner Bros. Records","LP, Album, All",,1984,2898649,Record Collection #97,2025-06-24 13:20:46,,,A
+"1-25116, 9 25116-1",Randy Newman,The Natural,"Warner Bros. Records, Warner Bros. Records","LP, Album, All",,1984,2898649,Record Collection #97,2025-06-24 13:20:46,5,,A
 "1-25296, 9-25296-1",China Crisis,Flaunt The Imperfection,"Warner Bros. Records, Warner Bros. Records, Virgin, Virgin","LP, Album, Spe",,1985,13874703,Record Collection #98,2025-07-08 17:17:34,,,
 WWS 7115,The Turtles,Turtles' Golden Hits,White Whale,"LP, Comp",,1967,6433447,Individual Find,2025-10-06 11:16:51,,,
 WH-1009,Alex De Grassi,Slow Circle,Windham Hill Records,"LP, Album, RE, Ele",,0,2550207,Record Collection #105,2025-09-22 08:34:28,,,A
