@@ -1,6 +1,7 @@
 import pandas as pd
 
-df= pd.read_csv("/workspaces/Personal_Coding/Discogs Collection Modifier/zackdimondrecords1-collection-20260402-1501.csv")
+
+df= pd.read_csv("/workspaces/Personal_Coding/Discogs Collection Modifier/zackdimondrecords1-collection-20260403-1317.csv")
 backup = df
 df_stock = df.dropna(subset =['Collection Notes'])
 df_sold = df[df['Collection Notes'].isna()]

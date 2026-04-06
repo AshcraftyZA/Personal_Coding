@@ -1,0 +1,3215 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 14,
+        "per_page": 50,
+        "items": 698,
+        "urls": {
+            "last": "https://api.discogs.com/users/ZackDimondRecords1/collection/folders/0/releases?page=14&per_page=50&sort=label&sort_order=asc",
+            "next": "https://api.discogs.com/users/ZackDimondRecords1/collection/folders/0/releases?page=2&per_page=50&sort=label&sort_order=asc"
+        }
+    },
+    "releases": [
+        {
+            "id": 29799220,
+            "instance_id": 2045575025,
+            "date_added": "2025-07-28T11:17:56-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 29799220,
+                "master_id": 307113,
+                "master_url": "https://api.discogs.com/masters/307113",
+                "resource_url": "https://api.discogs.com/releases/29799220",
+                "thumb": "https://i.discogs.com/hbTn_U33I1h2Or9TG-wgIEH5P9-7a-x4AGJICN3MPbw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzk5/MjIwLTE3MDc5MjA1/MDItNTA5NS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/xLTrFJdCdOMkw8ZfgB11D_dmPVBYkpMGRk5sQFZvLYQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Nzk5/MjIwLTE3MDc5MjA1/MDItNTA5NS5qcGVn.jpeg",
+                "title": "Patton (Original Motion Picture Score)",
+                "year": 1970,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "20th Century Fox Records",
+                        "catno": "S 4208",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 65341,
+                        "resource_url": "https://api.discogs.com/labels/65341"
+                    },
+                    {
+                        "name": "20th Century Fox Records",
+                        "catno": "4208",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 65341,
+                        "resource_url": "https://api.discogs.com/labels/65341"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Jerry Goldsmith",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 208267,
+                        "resource_url": "https://api.discogs.com/artists/208267"
+                    }
+                ],
+                "genres": [
+                    "Non-Music",
+                    "Classical",
+                    "Brass & Military",
+                    "Stage & Screen"
+                ],
+                "styles": [
+                    "Soundtrack",
+                    "Score",
+                    "Dialogue"
+                ]
+            },
+            "folder_id": 8855436,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 580795,
+            "instance_id": 2106762387,
+            "date_added": "2026-01-25T18:22:01-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 580795,
+                "master_id": 134214,
+                "master_url": "https://api.discogs.com/masters/134214",
+                "resource_url": "https://api.discogs.com/releases/580795",
+                "thumb": "https://i.discogs.com/YkA73W9AE58b85TfTghbRtwEYaVoKMiR4Top-OU_iAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc5/NS0xNTgyNzc5MzA2/LTk3NDguanBlZw.jpeg",
+                "cover_image": "https://i.discogs.com/QhvwfK0n5DRhT-hg_Qt_gKKy9lQWynGw2Qf2h_E7KUg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDc5/NS0xNTgyNzc5MzA2/LTk3NDguanBlZw.jpeg",
+                "title": "Under The Influence Of Love Unlimited",
+                "year": 1973,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Partially Mixed"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "20th Century Records",
+                        "catno": "T-414",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2350,
+                        "resource_url": "https://api.discogs.com/labels/2350"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Love Unlimited",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 164269,
+                        "resource_url": "https://api.discogs.com/artists/164269"
+                    }
+                ],
+                "genres": [
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Soul",
+                    "Ballad",
+                    "Disco"
+                ]
+            },
+            "folder_id": 9139772
+        },
+        {
+            "id": 21270940,
+            "instance_id": 2127193428,
+            "date_added": "2026-03-23T07:07:24-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 21270940,
+                "master_id": 37581,
+                "master_url": "https://api.discogs.com/masters/37581",
+                "resource_url": "https://api.discogs.com/releases/21270940",
+                "thumb": "https://i.discogs.com/WgGdWE946HOdoWuWo_dzTTSbuRePDsv3dAvKDNiPYpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcw/OTQwLTE2Mzg5Mzg3/NjktNTcyMS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/65iajVRmCZSx_Q8lg1LZk9YV09HPi8KYB8jOJibQdT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjcw/OTQwLTE2Mzg5Mzg3/NjktNTcyMS5qcGVn.jpeg",
+                "title": "Rhapsody In White",
+                "year": 1974,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "20th Century Records",
+                        "catno": "T-433",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 2350,
+                        "resource_url": "https://api.discogs.com/labels/2350"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Love Unlimited Orchestra",
+                        "anv": "The Love Unlimited Orchestra",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 18983,
+                        "resource_url": "https://api.discogs.com/artists/18983"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Soul-Jazz",
+                    "Jazz-Funk",
+                    "Soul",
+                    "Disco"
+                ]
+            },
+            "folder_id": 7055577
+        },
+        {
+            "id": 4454379,
+            "instance_id": 2035509837,
+            "date_added": "2025-06-24T12:37:49-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 4454379,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/4454379",
+                "thumb": "https://i.discogs.com/se1b7dlFA-zMuboRwEX9CF5mYRaS8yU_J4ubWEJACH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQz/NzktMTQyMDAzMDgy/OS05NzMwLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/nOzB_FAbZprtogy6694Nxd2nDyHyJnxMXETVXHLYuec/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTQz/NzktMTQyMDAzMDgy/OS05NzMwLmpwZWc.jpeg",
+                "title": "Made In Tennessee",
+                "year": 1977,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "4 Star Records",
+                        "catno": "4S-SP-106",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 59493,
+                        "resource_url": "https://api.discogs.com/labels/59493"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Various",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 194,
+                        "resource_url": "https://api.discogs.com/artists/194"
+                    }
+                ],
+                "genres": [
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country"
+                ]
+            },
+            "folder_id": 8820335,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 3110567,
+            "instance_id": 2073256945,
+            "date_added": "2025-10-24T14:32:37-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3110567,
+                "master_id": 85061,
+                "master_url": "https://api.discogs.com/masters/85061",
+                "resource_url": "https://api.discogs.com/releases/3110567",
+                "thumb": "https://i.discogs.com/Tg8jbw85GZOJ2taQ3PqYu_U3R5MKlQ-20_X3LsYO9VU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTA1/NjctMTQ5MzMxMzEw/NS01MjQ5LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/36YE4ATJsHVERCPdpTm6UtN32o17h1Ad-98bl-QoE2U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTA1/NjctMTQ5MzMxMzEw/NS01MjQ5LmpwZWc.jpeg",
+                "title": "Yesterday Once More",
+                "year": 1984,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "Monarch Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SE 1024",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Carpenters",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 170357,
+                        "resource_url": "https://api.discogs.com/artists/170357"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Soft Rock",
+                    "Pop Rock"
+                ]
+            },
+            "folder_id": 8966713
+        },
+        {
+            "id": 2096172,
+            "instance_id": 2105746344,
+            "date_added": "2026-01-23T14:42:02-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2096172,
+                "master_id": 81258,
+                "master_url": "https://api.discogs.com/masters/81258",
+                "resource_url": "https://api.discogs.com/releases/2096172",
+                "thumb": "https://i.discogs.com/E42t3RtZBMm2wRC5a73yKZMpmsuUY43Ru6JXmX_a2fY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYx/NzItMTU2NTU2MzE5/OS0xMzYxLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/ynptboMWrEBNuWqTdbaYk_YbciK3jcwLMuSbW0PXIZ0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTYx/NzItMTU2NTU2MzE5/OS0xMzYxLmpwZWc.jpeg",
+                "title": "Lead Me On",
+                "year": 1988,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 5199",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Amy Grant",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 168359,
+                        "resource_url": "https://api.discogs.com/artists/168359"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Soft Rock",
+                    "Religious"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "7"
+                }
+            ]
+        },
+        {
+            "id": 4450663,
+            "instance_id": 2123099870,
+            "date_added": "2026-03-11T11:51:35-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 4450663,
+                "master_id": 25362,
+                "master_url": "https://api.discogs.com/masters/25362",
+                "resource_url": "https://api.discogs.com/releases/4450663",
+                "thumb": "https://i.discogs.com/cM9gwauSGwsXAKgsaDV0kgPqNFBFMjABizpujWy-g5I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA2/NjMtMTQzNjA4NzAw/Ny00MTYxLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/ZhyHS5u8_dq0FvsgFkcfAjvW2z_bnSPpF5jVbS0iG4k/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTA2/NjMtMTQzNjA4NzAw/Ny00MTYxLmpwZWc.jpeg",
+                "title": "Breakfast In America",
+                "year": 1979,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Monarch Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-3708",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Supertramp",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 251517,
+                        "resource_url": "https://api.discogs.com/artists/251517"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Pop Rock",
+                    "Art Rock",
+                    "AOR"
+                ]
+            },
+            "folder_id": 9224188
+        },
+        {
+            "id": 1226289,
+            "instance_id": 2130520734,
+            "date_added": "2026-04-01T22:36:08-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1226289,
+                "master_id": 244737,
+                "master_url": "https://api.discogs.com/masters/244737",
+                "resource_url": "https://api.discogs.com/releases/1226289",
+                "thumb": "https://i.discogs.com/SE4qoJpR8LX8JGdwGOzzkJb4uEscKZ5Swp5QYjXwhpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/ODktMTIwMjA1MzU0/OS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/MY6_H-9XXpc1Dq9UR3hizebD_MnecITrMpcriFlJ5Mg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYy/ODktMTIwMjA1MzU0/OS5qcGVn.jpeg",
+                "title": "Barrel",
+                "year": 1970,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4249",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Lee Michaels",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 49626,
+                        "resource_url": "https://api.discogs.com/artists/49626"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Folk Rock",
+                    "Psychedelic Rock"
+                ]
+            },
+            "folder_id": 8834746,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 7586003,
+            "instance_id": 2130767340,
+            "date_added": "2026-04-02T15:04:18-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 7586003,
+                "master_id": 129759,
+                "master_url": "https://api.discogs.com/masters/129759",
+                "resource_url": "https://api.discogs.com/releases/7586003",
+                "thumb": "https://i.discogs.com/Klz1JzfLjR7jcLptCLkRkd17CdF5y8eVhYdTQ3pxweI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODYw/MDMtMTQ0NDU4Mzg3/Ny0zMjIyLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/Gn34a2ErFBJPjUAKYPtzZG8aur2Ex_Ev5EVZ-bSGI6E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODYw/MDMtMTQ0NDU4Mzg3/Ny0zMjIyLmpwZWc.jpeg",
+                "title": "Diamonds & Rust",
+                "year": 1975,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4527",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Joan Baez",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 261867,
+                        "resource_url": "https://api.discogs.com/artists/261867"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Folk Rock"
+                ]
+            },
+            "folder_id": 9265389,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "id": 3874309,
+            "instance_id": 2073256036,
+            "date_added": "2025-10-24T14:29:06-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3874309,
+                "master_id": 364972,
+                "master_url": "https://api.discogs.com/masters/364972",
+                "resource_url": "https://api.discogs.com/releases/3874309",
+                "thumb": "https://i.discogs.com/bZ3OkxvG0n11oQFPCzMo_ip1duzrFg882LBbcKGratI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzQz/MDktMTQ0ODYyOTEx/My03NTg0LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/Euj2EB9pdpR5H3US_goI2bQFlT25oTBJE4RnOxGJKqU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzQz/MDktMTQ0ODYyOTEx/My03NTg0LmpwZWc.jpeg",
+                "title": "Lifeline",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4575",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Pablo Cruise",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 370971,
+                        "resource_url": "https://api.discogs.com/artists/370971"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Pop Rock"
+                ]
+            },
+            "folder_id": 8966713,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 1768031,
+            "instance_id": 2129995749,
+            "date_added": "2026-03-31T07:37:41-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1768031,
+                "master_id": 219784,
+                "master_url": "https://api.discogs.com/masters/219784",
+                "resource_url": "https://api.discogs.com/releases/1768031",
+                "thumb": "https://i.discogs.com/FYZxSG5HAl4vvf4HiXMgx0aSATN18erjb40IwZQKRAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgw/MzEtMTQ3ODIwODgz/OC0yODIxLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/7S40a4rWswvgenFQHkcecrLq-bdv9PVMsrKj4Mjr-bY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njgw/MzEtMTQ3ODIwODgz/OC0yODIxLmpwZWc.jpeg",
+                "title": "Greatest Hits",
+                "year": 1980,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4836",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Rita Coolidge",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 135243,
+                        "resource_url": "https://api.discogs.com/artists/135243"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Soft Rock",
+                    "Pop Rock",
+                    "Country Rock",
+                    "Vocal"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 1545418,
+            "instance_id": 2019908391,
+            "date_added": "2025-05-07T07:34:34-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1545418,
+                "master_id": 100146,
+                "master_url": "https://api.discogs.com/masters/100146",
+                "resource_url": "https://api.discogs.com/releases/1545418",
+                "thumb": "https://i.discogs.com/S1HXCN8OCIASZxIBAydQ0BDgInSOPP-0URmrgCblLo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTgtMTMxMzI2MjAy/OS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/GSp6AhSAxsdDYe4Qo8P5ff3ZBSQqHxFRA89xyQGsSy4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU0/MTgtMTMxMzI2MjAy/OS5qcGVn.jpeg",
+                "title": "Jeffrey Osborne",
+                "year": 1982,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "R, Indianapolis Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4896",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Jeffrey Osborne",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 80019,
+                        "resource_url": "https://api.discogs.com/artists/80019"
+                    }
+                ],
+                "genres": [
+                    "Funk / Soul",
+                    "Pop"
+                ],
+                "styles": [
+                    "Funk",
+                    "Soul",
+                    "Ballad",
+                    "Disco"
+                ]
+            },
+            "folder_id": 8755401
+        },
+        {
+            "id": 477274,
+            "instance_id": 2108339868,
+            "date_added": "2026-01-30T08:12:48-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 477274,
+                "master_id": 48690,
+                "master_url": "https://api.discogs.com/masters/48690",
+                "resource_url": "https://api.discogs.com/releases/477274",
+                "thumb": "https://i.discogs.com/rU5dFfP_CKpMrN0E2jP-hGWjhOljdB1C3pDX0Do0ECE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzI3/NC0xMzY0Nzc4MTM0/LTQ5NTguanBlZw.jpeg",
+                "cover_image": "https://i.discogs.com/EnHXgwzCq7Z7cr5F9dqoSghx2cwyNJFd--Xv4_bPKiM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NzI3/NC0xMzY0Nzc4MTM0/LTQ5NTguanBlZw.jpeg",
+                "title": "Night And Day",
+                "year": 1982,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "EMW - Electrosound Midwest Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4906",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Joe Jackson",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 75280,
+                        "resource_url": "https://api.discogs.com/artists/75280"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "New Wave",
+                    "Pop Rock"
+                ]
+            },
+            "folder_id": 9139772
+        },
+        {
+            "id": 8706833,
+            "instance_id": 2105803217,
+            "date_added": "2026-01-23T18:36:53-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 8706833,
+                "master_id": 86316,
+                "master_url": "https://api.discogs.com/masters/86316",
+                "resource_url": "https://api.discogs.com/releases/8706833",
+                "thumb": "https://i.discogs.com/HHSBc7so7YyMnOD0Gx7pHEXvhd1n0Yp9N1ftFicdPOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDY4/MzMtMTYzNTYxNzEx/NS0zMDU1LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/RN8tzofm4dpECXOLDHwQHPIDdZ3Xzkg5ylp6FrWt2BQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDY4/MzMtMTYzNTYxNzEx/NS0zMDU1LmpwZWc.jpeg",
+                "title": "Burt Bacharach",
+                "year": 1971,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Gatefold, Pitman Press",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 3501",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-3501",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Burt Bacharach",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 58359,
+                        "resource_url": "https://api.discogs.com/artists/58359"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Pop"
+                ],
+                "styles": [
+                    "Easy Listening"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 8230505,
+            "instance_id": 2106591092,
+            "date_added": "2026-01-25T10:48:46-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 8230505,
+                "master_id": 86323,
+                "master_url": "https://api.discogs.com/masters/86323",
+                "resource_url": "https://api.discogs.com/releases/8230505",
+                "thumb": "https://i.discogs.com/AvmSHZtmernZvbgFbZdDCjaYYuU5jsHuC1kvbUJJBlw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzA1/MDUtMTY3NjA4MjU0/My04Mjg5LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/4q_Q1DwUKplyTWXC0MK7fp5ySmZMgbrzweDf7IjYkyo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMzA1/MDUtMTY3NjA4MjU0/My04Mjg5LmpwZWc.jpeg",
+                "title": "Reach Out",
+                "year": 1967,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4131",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "131",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Burt Bacharach",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 58359,
+                        "resource_url": "https://api.discogs.com/artists/58359"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Pop",
+                    "Stage & Screen"
+                ],
+                "styles": [
+                    "Easy Listening"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 4171605,
+            "instance_id": 2024755282,
+            "date_added": "2025-05-20T11:42:27-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 4171605,
+                "master_id": 541152,
+                "master_url": "https://api.discogs.com/masters/541152",
+                "resource_url": "https://api.discogs.com/releases/4171605",
+                "thumb": "https://i.discogs.com/nI43fFtiZ07jTimETeRqrS_EX9mg3QcDV7Qsz7IU4sM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE2/MDUtMTM2MDAzMzEw/MS02NTk0LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/u1RrFTgqr8Y5i4x3s2thLaNYdDGmkIQkY9oYo4hxGh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzE2/MDUtMTM2MDAzMzEw/MS02NTk0LmpwZWc.jpeg",
+                "title": "Please Stand By...",
+                "year": 1979,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4769",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4769",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "1994:",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1760161,
+                        "resource_url": "https://api.discogs.com/artists/1760161"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Hard Rock"
+                ]
+            },
+            "folder_id": 8778276,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 6467024,
+            "instance_id": 2130741371,
+            "date_added": "2026-04-02T13:38:37-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 6467024,
+                "master_id": 237497,
+                "master_url": "https://api.discogs.com/masters/237497",
+                "resource_url": "https://api.discogs.com/releases/6467024",
+                "thumb": "https://i.discogs.com/8wYEM5e1y-Jx-T4Mp7MzhOXBlT2mAinm906M0DTFyGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Njcw/MjQtMTc0MDM2MDk2/Ny02MDE0LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/4OtyPPmncRCcZ6uUY9pKTr_6jCorX7fS8SOHJN5gIcE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0Njcw/MjQtMTc0MDM2MDk2/Ny02MDE0LmpwZWc.jpeg",
+                "title": "A Day In The Life",
+                "year": 1967,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Gatefold Monarch Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-3001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 3001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Wes Montgomery",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 129805,
+                        "resource_url": "https://api.discogs.com/artists/129805"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": []
+            },
+            "folder_id": 1,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "7"
+                }
+            ]
+        },
+        {
+            "id": 6793124,
+            "instance_id": 2034255169,
+            "date_added": "2025-06-20T08:42:23-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 6793124,
+                "master_id": 67324,
+                "master_url": "https://api.discogs.com/masters/67324",
+                "resource_url": "https://api.discogs.com/releases/6793124",
+                "thumb": "https://i.discogs.com/JYeR3CWz_eugnWhYN_OMVc_5qub_kobmTspfxj9Pivk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTMx/MjQtMTQ0NzYxMjk1/Ni0yMjA1LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/0QpsMWyDyNeQyoKwP9MNE7tewglDNgkM1wqI2vop6-I/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3OTMx/MjQtMTQ0NzYxMjk1/Ni0yMjA1LmpwZWc.jpeg",
+                "title": "Broken Barricades",
+                "year": 1971,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Press, Unipak",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4294",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4294",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Procol Harum",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 254414,
+                        "resource_url": "https://api.discogs.com/artists/254414"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Prog Rock"
+                ]
+            },
+            "folder_id": 8805631,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "7"
+                }
+            ]
+        },
+        {
+            "id": 1361073,
+            "instance_id": 2106552602,
+            "date_added": "2026-01-25T09:37:09-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1361073,
+                "master_id": 12310,
+                "master_url": "https://api.discogs.com/masters/12310",
+                "resource_url": "https://api.discogs.com/releases/1361073",
+                "thumb": "https://i.discogs.com/bMD5h8-ht9Cx-dJOTknz66YV3arniDabKctXqotPbP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/NzMtMTQyOTk5Mjgx/Mi02NTM0LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/c-Q3gkDvZE40OO89DqAu9bmpjQMnH_9OgkqSGfADqo8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/NzMtMTQyOTk5Mjgx/Mi02NTM0LmpwZWc.jpeg",
+                "title": "The Last Of The Red Hot Burritos",
+                "year": 1972,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Monarch Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4343",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4343",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Flying Burrito Bros",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 285133,
+                        "resource_url": "https://api.discogs.com/artists/285133"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Country Rock"
+                ]
+            },
+            "folder_id": 9139772
+        },
+        {
+            "id": 461547,
+            "instance_id": 2109806103,
+            "date_added": "2026-02-02T18:58:35-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 461547,
+                "master_id": 57940,
+                "master_url": "https://api.discogs.com/masters/57940",
+                "resource_url": "https://api.discogs.com/releases/461547",
+                "thumb": "https://i.discogs.com/hrLXJXGLZlEBCPTczuDqI34jlBFgFZDQ6iB5MEKJ-v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTU0/Ny0xNTU2Mjk5MTcy/LTE4OTkuanBlZw.jpeg",
+                "cover_image": "https://i.discogs.com/-5PRHQtcmpcgrm3o7d34cDjcrX11UCJOpQh4-cP4Yew/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTU0/Ny0xNTU2Mjk5MTcy/LTE4OTkuanBlZw.jpeg",
+                "title": "The Six Wives Of Henry VIII",
+                "year": 1973,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Pressing, Brown Labels",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4361",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4361",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Rick Wakeman",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 149420,
+                        "resource_url": "https://api.discogs.com/artists/149420"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Rock"
+                ],
+                "styles": [
+                    "Modern Classical",
+                    "Prog Rock"
+                ]
+            },
+            "folder_id": 9158103
+        },
+        {
+            "id": 944333,
+            "instance_id": 2108350030,
+            "date_added": "2026-01-30T08:35:44-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 944333,
+                "master_id": 103467,
+                "master_url": "https://api.discogs.com/masters/103467",
+                "resource_url": "https://api.discogs.com/releases/944333",
+                "thumb": "https://i.discogs.com/V8N3hMweih85xTh8GmEXCwj0LPsFgS0U6NPZiXmEe-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDMz/My0xNTgxMjg2MTMz/LTE4OTQuanBlZw.jpeg",
+                "cover_image": "https://i.discogs.com/noyH3j7pcUndNHlT-06y9eZPz0RW0FOHZ_4LEBRXQY4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDMz/My0xNTgxMjg2MTMz/LTE4OTQuanBlZw.jpeg",
+                "title": "Anytime... Anywhere",
+                "year": 1977,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4616",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4616",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Rita Coolidge",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 135243,
+                        "resource_url": "https://api.discogs.com/artists/135243"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Pop Rock",
+                    "Soft Rock"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 13692048,
+            "instance_id": 2039564947,
+            "date_added": "2025-07-08T12:07:00-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 13692048,
+                "master_id": 131388,
+                "master_url": "https://api.discogs.com/masters/131388",
+                "resource_url": "https://api.discogs.com/releases/13692048",
+                "thumb": "https://i.discogs.com/maum78wRNjDd71HC_FgSXDPCaRdBbnlR57wJeOgJLME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjky/MDQ4LTE1NTkxMzYy/ODAtNzQwMS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/TRs9tPit7qH_KS4Mu2yMA1fvW_JIjyVTh0jKO8JrR2w/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjky/MDQ4LTE1NTkxMzYy/ODAtNzQwMS5qcGVn.jpeg",
+                "title": "Worlds Away",
+                "year": 1978,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP-4697",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    },
+                    {
+                        "name": "A&M Records",
+                        "catno": "SP 4697",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 904,
+                        "resource_url": "https://api.discogs.com/labels/904"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Pablo Cruise",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 370971,
+                        "resource_url": "https://api.discogs.com/artists/370971"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": [
+                    "Soft Rock",
+                    "Pop Rock"
+                ]
+            },
+            "folder_id": 8834746,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 3092535,
+            "instance_id": 2104212329,
+            "date_added": "2026-01-19T09:44:54-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3092535,
+                "master_id": 666968,
+                "master_url": "https://api.discogs.com/masters/666968",
+                "resource_url": "https://api.discogs.com/releases/3092535",
+                "thumb": "https://i.discogs.com/K0NrAeUFtzKqYggGCFHA7TrI5CrPwqlrj0bq6vskEjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI1/MzUtMTU0NDU5NDIw/Mi05MzE2LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/ZjEYyxtRBGYIG-v9ykaXETxIhWRMuQGg_SZ9sS7lEd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTI1/MzUtMTU0NDU5NDIw/Mi05MzE2LmpwZWc.jpeg",
+                "title": "Love's Ups And Downs",
+                "year": 1977,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Dot",
+                        "catno": "DO-2098",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 197545,
+                        "resource_url": "https://api.discogs.com/labels/197545"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Barbara Mandrell",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 693420,
+                        "resource_url": "https://api.discogs.com/artists/693420"
+                    }
+                ],
+                "genres": [
+                    "Pop",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Vocal",
+                    "Country",
+                    "Disco"
+                ]
+            },
+            "folder_id": 9131641,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 2259714,
+            "instance_id": 2063484484,
+            "date_added": "2025-09-22T06:57:01-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2259714,
+                "master_id": 995734,
+                "master_url": "https://api.discogs.com/masters/995734",
+                "resource_url": "https://api.discogs.com/releases/2259714",
+                "thumb": "https://i.discogs.com/AlGHRAka4yNC6q-p0TJfDlMM7s1kFmQSiGAiyDYAKic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk3/MTQtMTMwODA1NjAy/MS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/76PCmCdgq3ZxFR_iQdFsn8pYZzxiGYeRshTEXthMzjA/rs:fit/g:sm/q:90/h:411/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTk3/MTQtMTMwODA1NjAy/MS5qcGVn.jpeg",
+                "title": "Whatever I Say Means I Love You",
+                "year": 1975,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Pressing, Gatefold",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Dot",
+                        "catno": "DOSD-2029",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 197545,
+                        "resource_url": "https://api.discogs.com/labels/197545"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Donna Fargo",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 492469,
+                        "resource_url": "https://api.discogs.com/artists/492469"
+                    }
+                ],
+                "genres": [
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country"
+                ]
+            },
+            "folder_id": 8934002,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 1441811,
+            "instance_id": 2106573865,
+            "date_added": "2026-01-25T10:15:08-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1441811,
+                "master_id": 279999,
+                "master_url": "https://api.discogs.com/masters/279999",
+                "resource_url": "https://api.discogs.com/releases/1441811",
+                "thumb": "https://i.discogs.com/bdAGoKOr3kF49FDmsVNDb5O9iPMcpVupXc2JBi47Kx0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/MTEtMTYxODA3NDYx/NS05NzIwLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/nfHxbNOZqXxT8k8Pl_g5mOtFSWQqbm_yqW5ZNZeqSqk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDE4/MTEtMTYxODA3NDYx/NS05NzIwLmpwZWc.jpeg",
+                "title": "If You're Ever In Texas",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Dot",
+                        "catno": "DOSD-2061",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 197545,
+                        "resource_url": "https://api.discogs.com/labels/197545"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Freddy Fender (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 492471,
+                        "resource_url": "https://api.discogs.com/artists/492471"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Country Rock"
+                ]
+            },
+            "folder_id": 9139772
+        },
+        {
+            "id": 8707423,
+            "instance_id": 2104202402,
+            "date_added": "2026-01-19T09:21:32-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 8707423,
+                "master_id": 562040,
+                "master_url": "https://api.discogs.com/masters/562040",
+                "resource_url": "https://api.discogs.com/releases/8707423",
+                "thumb": "https://i.discogs.com/0fRQWB4KVN8mvCXm7XCwBCDWgsrbdJIeIKdFd6gTo7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDc0/MjMtMTQ5NTM3MzQy/OC0yMTU0LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/vaL3hihygYb9KTHEz3yRCcmQiQjhT2fkdlOjTeugmnI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MDc0/MjMtMTQ5NTM3MzQy/OC0yMTU0LmpwZWc.jpeg",
+                "title": "Crash",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Dot",
+                        "catno": "DOSD-2063",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 197545,
+                        "resource_url": "https://api.discogs.com/labels/197545"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Billy 'Crash' Craddock",
+                        "anv": "Billy Crash Craddock",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 654996,
+                        "resource_url": "https://api.discogs.com/artists/654996"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country Rock"
+                ]
+            },
+            "folder_id": 9131641,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 5030513,
+            "instance_id": 2104222310,
+            "date_added": "2026-01-19T10:07:22-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 5030513,
+                "master_id": 882420,
+                "master_url": "https://api.discogs.com/masters/882420",
+                "resource_url": "https://api.discogs.com/releases/5030513",
+                "thumb": "https://i.discogs.com/ZKecOj9yQi8IIQfIJiVZrPGDa_f5IjSKe0ufbhGwNfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA1/MTMtMTQ2NTQ5MDIx/NC00MDM4LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/LSWuZEOb5Fl9jdrQlvlYgRRVvsWkYAOqsrIuzSuxtd4/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMzA1/MTMtMTQ2NTQ5MDIx/NC00MDM4LmpwZWc.jpeg",
+                "title": "Doin' What I Feel",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC DOT",
+                        "catno": "DOSD-2065",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 197545,
+                        "resource_url": "https://api.discogs.com/labels/197545"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Narvel Felts",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 395088,
+                        "resource_url": "https://api.discogs.com/artists/395088"
+                    }
+                ],
+                "genres": [
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country"
+                ]
+            },
+            "folder_id": 9131641,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 4057457,
+            "instance_id": 2098838508,
+            "date_added": "2026-01-06T07:19:29-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 4057457,
+                "master_id": 495200,
+                "master_url": "https://api.discogs.com/masters/495200",
+                "resource_url": "https://api.discogs.com/releases/4057457",
+                "thumb": "https://i.discogs.com/4CUJKtimlPaiUR0hcZBk7vL9dnsVpltzlkR2oUsZddM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTc0/NTctMTM1MzgwOTY4/Ny0yMTg3LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/7UbfZLIT0HVAwAm3EnzY4jxT1jWowDjDBktMstKtBJ8/rs:fit/g:sm/q:90/h:467/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTc0/NTctMTM1MzgwOTY4/Ny0yMTg3LmpwZWc.jpeg",
+                "title": "Levon Helm And The RCO All-Stars",
+                "year": 1977,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Pressing ",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "AA 1017",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Levon Helm",
+                        "anv": "",
+                        "join": "And",
+                        "role": "",
+                        "tracks": "",
+                        "id": 252930,
+                        "resource_url": "https://api.discogs.com/artists/252930"
+                    },
+                    {
+                        "name": "The RCO All-Stars",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 1936757,
+                        "resource_url": "https://api.discogs.com/artists/1936757"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Funk / Soul",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Bayou Funk",
+                    "Funk",
+                    "Southern Rock",
+                    "Blues Rock"
+                ]
+            },
+            "folder_id": 9086742,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "10"
+                }
+            ]
+        },
+        {
+            "id": 1185146,
+            "instance_id": 2123646500,
+            "date_added": "2026-03-13T06:48:02-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1185146,
+                "master_id": 84523,
+                "master_url": "https://api.discogs.com/masters/84523",
+                "resource_url": "https://api.discogs.com/releases/1185146",
+                "thumb": "https://i.discogs.com/ADbMZRJSrLl_KaaMnjKaxZ9tDLK6OXzVKZLYA31zFf8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUx/NDYtMTQxODAyNzM2/Mi00NzYwLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/l9Sdf6ePZfgCrV0sn3z6W8u5kOSE-NZ9wtyia0XzpJk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODUx/NDYtMTQxODAyNzM2/Mi00NzYwLmpwZWc.jpeg",
+                "title": "Arabesque",
+                "year": 1978,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "AA-1068",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "John Klemmer",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 50123,
+                        "resource_url": "https://api.discogs.com/artists/50123"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": [
+                    "Smooth Jazz"
+                ]
+            },
+            "folder_id": 9224188,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 18700087,
+            "instance_id": 2108350944,
+            "date_added": "2026-01-30T08:38:01-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 18700087,
+                "master_id": 581407,
+                "master_url": "https://api.discogs.com/masters/581407",
+                "resource_url": "https://api.discogs.com/releases/18700087",
+                "thumb": "https://i.discogs.com/sMj0onsfamErzOEujSSlHh183MUW966pUd8wHF2XTiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzAw/MDg3LTE3NjQ1MTYx/OTktNzMzNi5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/NVrmVgxnfF7XEAufVMpNIpToH3BOPGxTkbrbccc28lg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzAw/MDg3LTE3NjQ1MTYx/OTktNzMzNi5qcGVn.jpeg",
+                "title": "Greatest Hits - Volume One",
+                "year": 1974,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "AB-850",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Billy 'Crash' Craddock",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 654996,
+                        "resource_url": "https://api.discogs.com/artists/654996"
+                    }
+                ],
+                "genres": [
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 8841194,
+            "instance_id": 2107874606,
+            "date_added": "2026-01-28T22:01:46-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 8841194,
+                "master_id": 121795,
+                "master_url": "https://api.discogs.com/masters/121795",
+                "resource_url": "https://api.discogs.com/releases/8841194",
+                "thumb": "https://i.discogs.com/2YUyn5IfGiX8loMoeSR9tzSqBVKckxXTZUrC7jSaWN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDEx/OTQtMTQ3MDAyNjUy/Ny03MjAxLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/P-0DGK-SZVWG4S1m2MoH7QFCHoON4FUHlKh9vutX9bs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NDEx/OTQtMTQ3MDAyNjUy/Ny03MjAxLmpwZWc.jpeg",
+                "title": "Melodies Of Love",
+                "year": 1974,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Indianapolis Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Club Edition",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "ABCD-851",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Bobby Vinton",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 154971,
+                        "resource_url": "https://api.discogs.com/artists/154971"
+                    }
+                ],
+                "genres": [
+                    "Pop"
+                ],
+                "styles": [
+                    "Vocal"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 9044741,
+            "instance_id": 2108330479,
+            "date_added": "2026-01-30T07:47:25-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 9044741,
+                "master_id": 837155,
+                "master_url": "https://api.discogs.com/masters/837155",
+                "resource_url": "https://api.discogs.com/releases/9044741",
+                "thumb": "https://i.discogs.com/llD42_DTOMi_9fuLRPtVUQiaCjauiUdBtDhmSFNVcPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQ3/NDEtMTcxNDQ3OTcw/OC0yNzI5LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/Q1Zppk-oKhtFTR-xu2NulfqcXC7Bv1txgGpJ0l2b6HA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDQ3/NDEtMTcxNDQ3OTcw/OC0yNzI5LmpwZWc.jpeg",
+                "title": "Heart Of Hearts",
+                "year": 1975,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "ABCD-891",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Bobby Vinton",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 154971,
+                        "resource_url": "https://api.discogs.com/artists/154971"
+                    }
+                ],
+                "genres": [
+                    "Pop"
+                ],
+                "styles": [
+                    "Vocal"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 5319301,
+            "instance_id": 2105812859,
+            "date_added": "2026-01-23T19:26:04-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 5319301,
+                "master_id": 708400,
+                "master_url": "https://api.discogs.com/masters/708400",
+                "resource_url": "https://api.discogs.com/releases/5319301",
+                "thumb": "https://i.discogs.com/_LbXpbnOAnRSNPTCIiITJypDiW_iNa-jbiScpqFDhC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTkz/MDEtMTU5OTMwOTgw/Ny02NTI4LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/CVwWM5CSuCqQjMkbWzLFAkN1Da-kF-wzuurUCNp9ZnA/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMTkz/MDEtMTU5OTMwOTgw/Ny02NTI4LmpwZWc.jpeg",
+                "title": "Serenades Of Love",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Terre Haute Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "ABCD-957",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Bobby Vinton",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 154971,
+                        "resource_url": "https://api.discogs.com/artists/154971"
+                    }
+                ],
+                "genres": [
+                    "Pop"
+                ],
+                "styles": [
+                    "Vocal"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 3250659,
+            "instance_id": 2073255219,
+            "date_added": "2025-10-24T14:25:51-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3250659,
+                "master_id": 287433,
+                "master_url": "https://api.discogs.com/masters/287433",
+                "resource_url": "https://api.discogs.com/releases/3250659",
+                "thumb": "https://i.discogs.com/Q1r7zk4IaJBuihDoWef4vOqgjB4uM5lg631LUB4vhpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA2/NTktMTMyMjczNTcy/OS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/qxw7s6fGsD47spKmjnazjrILyT-PpZh1w4WO7V-9hgU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTA2/NTktMTMyMjczNTcy/OS5qcGVn.jpeg",
+                "title": "Moods",
+                "year": 1978,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Club Edition"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "AY-1088",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Barbara Mandrell",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 693420,
+                        "resource_url": "https://api.discogs.com/artists/693420"
+                    }
+                ],
+                "genres": [
+                    "Pop",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Country"
+                ]
+            },
+            "folder_id": 8966713
+        },
+        {
+            "id": 2354773,
+            "instance_id": 2104171789,
+            "date_added": "2026-01-19T08:05:41-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 2354773,
+                "master_id": 315549,
+                "master_url": "https://api.discogs.com/masters/315549",
+                "resource_url": "https://api.discogs.com/releases/2354773",
+                "thumb": "https://i.discogs.com/ZnazywH_tdUcimIb0jOkEPnJ4bb7z7NlaQzEhesqwrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ3/NzMtMTUzMTA2MTIz/Ni03MjQ2LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/o7OrLbSTjh7NJhiZ8s4xV1yckovlnP5_B4Kgi5pcX1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ3/NzMtMTUzMTA2MTIz/Ni03MjQ2LmpwZWc.jpeg",
+                "title": "I'm All Wrapped Up In You",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "ABC Records",
+                        "catno": "AH-44001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 12220,
+                        "resource_url": "https://api.discogs.com/labels/12220"
+                    },
+                    {
+                        "name": "Hickory Records",
+                        "catno": "AH-44001",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 38412,
+                        "resource_url": "https://api.discogs.com/labels/38412"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Don Gibson",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 361458,
+                        "resource_url": "https://api.discogs.com/artists/361458"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Blues",
+                    "Folk, World, & Country"
+                ],
+                "styles": [
+                    "Blues Rock",
+                    "Country"
+                ]
+            },
+            "folder_id": 9131641,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 6007250,
+            "instance_id": 2105761364,
+            "date_added": "2026-01-23T15:34:21-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 6007250,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/6007250",
+                "thumb": "https://i.discogs.com/eQ9ytuR5hXzHtYG9W4jJVv0IQOtqBuJkuvI5FWTR8S4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDcy/NTAtMTQwODY1MjU5/OS05OTc3LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/j5qSMtUNhsBcnG2bJUSD2Ql2ogfMk56xImkm52aoxH8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMDcy/NTAtMTQwODY1MjU5/OS05OTc3LmpwZWc.jpeg",
+                "title": "Sounds Of Christmas",
+                "year": 1974,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Amway",
+                        "catno": "P 12474",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 90498,
+                        "resource_url": "https://api.discogs.com/labels/90498"
+                    },
+                    {
+                        "name": "Columbia Special Products",
+                        "catno": "P 12474",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 57677,
+                        "resource_url": "https://api.discogs.com/labels/57677"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Various",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 194,
+                        "resource_url": "https://api.discogs.com/artists/194"
+                    }
+                ],
+                "genres": [
+                    "Pop",
+                    "Classical"
+                ],
+                "styles": [
+                    "Vocal",
+                    "Choral",
+                    "Holiday"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 3336173,
+            "instance_id": 2106541206,
+            "date_added": "2026-01-25T09:16:54-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3336173,
+                "master_id": 0,
+                "master_url": null,
+                "resource_url": "https://api.discogs.com/releases/3336173",
+                "thumb": "https://i.discogs.com/qhgSj3pUmB_42hDeZzJmu24WbwtZYsZ7mK1Nyjk7ZRk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzYx/NzMtMTMyNjMxMDMy/Mi5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/n9fnrE0SX0vNOYdHSDTZhe9AHGOMO46KbtccWfKQzLE/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzYx/NzMtMTMyNjMxMDMy/Mi5qcGVn.jpeg",
+                "title": "Songs That Mom And Dad Taught Us",
+                "year": 1974,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Area Wide Crusades",
+                        "catno": "740319",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 336964,
+                        "resource_url": "https://api.discogs.com/labels/336964"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Friends (3)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 2573146,
+                        "resource_url": "https://api.discogs.com/artists/2573146"
+                    }
+                ],
+                "genres": [
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Gospel",
+                    "Religious"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "10"
+                }
+            ]
+        },
+        {
+            "id": 19953865,
+            "instance_id": 2019066690,
+            "date_added": "2025-05-06T07:42:19-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 19953865,
+                "master_id": 217301,
+                "master_url": "https://api.discogs.com/masters/217301",
+                "resource_url": "https://api.discogs.com/releases/19953865",
+                "thumb": "https://i.discogs.com/_0hJypiZrLII6YSl67QnX90yNbiGpVsCb25ZImSVwO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/ODY1LTE2ODQwMzI1/NTgtNzM2NC5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/lu9K63UZYD_PEnVdKhth9NPTXJVUMI_Xe8irRNuYs08/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTUz/ODY1LTE2ODQwMzI1/NTgtNzM2NC5qcGVn.jpeg",
+                "title": "Choice!: The Best Of The Ramsey Lewis Trio",
+                "year": 1965,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Compilation",
+                            "Mono"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Argo (6)",
+                        "catno": "LP-755",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1365351,
+                        "resource_url": "https://api.discogs.com/labels/1365351"
+                    },
+                    {
+                        "name": "Argo (6)",
+                        "catno": "755",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 1365351,
+                        "resource_url": "https://api.discogs.com/labels/1365351"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Ramsey Lewis Trio",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 149249,
+                        "resource_url": "https://api.discogs.com/artists/149249"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": [
+                    "Soul-Jazz"
+                ]
+            },
+            "folder_id": 8755401
+        },
+        {
+            "id": 1993990,
+            "instance_id": 2130518967,
+            "date_added": "2026-04-01T22:17:16-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1993990,
+                "master_id": 156533,
+                "master_url": "https://api.discogs.com/masters/156533",
+                "resource_url": "https://api.discogs.com/releases/1993990",
+                "thumb": "https://i.discogs.com/zh1SloAy3eGgO4HtIOUlLvYSBbQlqL5HWzpZk-f2wxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM5/OTAtMTI1NzM2MzI3/NS5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/8MVAspI77u1aGyue93ZE9vTd-P-gcT2UeLkgxjJWAlI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTM5/OTAtMTI1NzM2MzI3/NS5qcGVn.jpeg",
+                "title": "Chanson",
+                "year": 1978,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Ariola Records America",
+                        "catno": "SW-50039",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 21822,
+                        "resource_url": "https://api.discogs.com/labels/21822"
+                    },
+                    {
+                        "name": "Ariola Records America",
+                        "catno": "SW 50039",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 21822,
+                        "resource_url": "https://api.discogs.com/labels/21822"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Chanson",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 205885,
+                        "resource_url": "https://api.discogs.com/artists/205885"
+                    }
+                ],
+                "genres": [
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Funk",
+                    "Disco"
+                ]
+            },
+            "folder_id": 8834746
+        },
+        {
+            "id": 3812571,
+            "instance_id": 2073257243,
+            "date_added": "2025-10-24T14:33:57-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3812571,
+                "master_id": 158843,
+                "master_url": "https://api.discogs.com/masters/158843",
+                "resource_url": "https://api.discogs.com/releases/3812571",
+                "thumb": "https://i.discogs.com/oav0v4A8_BYbs-GuUd-VO8w11SW50KC28ebnRiBAzno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI1/NzEtMTQ0NzU5ODc5/OS0zNjczLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/KcPTkaFjz4VPoN9lelp4Ca-bMzWzhvYFwhfa_bZEbp4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI1/NzEtMTQ0NzU5ODc5/OS0zNjczLmpwZWc.jpeg",
+                "title": "Dionne",
+                "year": 1979,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AB 4230",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Dionne Warwick",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 113673,
+                        "resource_url": "https://api.discogs.com/artists/113673"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Soul",
+                    "Easy Listening"
+                ]
+            },
+            "folder_id": 8966713,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 3812571,
+            "instance_id": 2105792714,
+            "date_added": "2026-01-23T17:47:01-08:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 3812571,
+                "master_id": 158843,
+                "master_url": "https://api.discogs.com/masters/158843",
+                "resource_url": "https://api.discogs.com/releases/3812571",
+                "thumb": "https://i.discogs.com/oav0v4A8_BYbs-GuUd-VO8w11SW50KC28ebnRiBAzno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI1/NzEtMTQ0NzU5ODc5/OS0zNjczLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/KcPTkaFjz4VPoN9lelp4Ca-bMzWzhvYFwhfa_bZEbp4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI1/NzEtMTQ0NzU5ODc5/OS0zNjczLmpwZWc.jpeg",
+                "title": "Dionne",
+                "year": 1979,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Pitman Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AB 4230",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Dionne Warwick",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 113673,
+                        "resource_url": "https://api.discogs.com/artists/113673"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Soul",
+                    "Easy Listening"
+                ]
+            },
+            "folder_id": 9139772,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 5401816,
+            "instance_id": 2048162999,
+            "date_added": "2025-08-05T10:30:12-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 5401816,
+                "master_id": 35474,
+                "master_url": "https://api.discogs.com/masters/35474",
+                "resource_url": "https://api.discogs.com/releases/5401816",
+                "thumb": "https://i.discogs.com/fDBXpaTNFgqUXSbfRRR-c-gtbUc_gIIkYl3wVJk9exM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDE4/MTYtMTM5MjQ3Mzgy/OC04MDU1LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/dD2r2Auk6GCj2gMijiP6nFfvTGT5oFO8c8sa_pc-ics/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDE4/MTYtMTM5MjQ3Mzgy/OC04MDU1LmpwZWc.jpeg",
+                "title": "The Brecker Bros.",
+                "year": 1975,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 4037",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Brecker Brothers",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 30007,
+                        "resource_url": "https://api.discogs.com/artists/30007"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": [
+                    "Fusion",
+                    "Jazz-Funk"
+                ]
+            },
+            "folder_id": 8869395
+        },
+        {
+            "id": 1464641,
+            "instance_id": 2048173554,
+            "date_added": "2025-08-05T11:01:50-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1464641,
+                "master_id": 35485,
+                "master_url": "https://api.discogs.com/masters/35485",
+                "resource_url": "https://api.discogs.com/releases/1464641",
+                "thumb": "https://i.discogs.com/y5EHX1_EPwCStn6HA_xPJ7RthT3_b1EiT-ThwZbpPgA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NDEtMTQ0MjUxNzg0/OS03ODYxLmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/7FJmpDW5LEbrNJXzVCb0vLjbhO_Uavxe5W2UI1ZRo8s/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjQ2/NDEtMTQ0MjUxNzg0/OS03ODYxLmpwZWc.jpeg",
+                "title": "Back To Back",
+                "year": 1976,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 4061",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "The Brecker Brothers",
+                        "anv": "The Brecker Brothers Band",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 30007,
+                        "resource_url": "https://api.discogs.com/artists/30007"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": [
+                    "Jazz-Funk"
+                ]
+            },
+            "folder_id": 8869395
+        },
+        {
+            "id": 14607905,
+            "instance_id": 2024794041,
+            "date_added": "2025-05-20T13:45:58-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 14607905,
+                "master_id": 317514,
+                "master_url": "https://api.discogs.com/masters/317514",
+                "resource_url": "https://api.discogs.com/releases/14607905",
+                "thumb": "https://i.discogs.com/L7vI3CrAXKdWo9eFdhuL22LLWCaC4au9NTNUR9Nx7kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/OTA1LTE1NzgwODQx/ODQtNTI2NC5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/_7GSEJFDeUVaCIAae0TsCXbnQBDib3gDBJzSwmq-i3k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjA3/OTA1LTE1NzgwODQx/ODQtNTI2NC5qcGVn.jpeg",
+                "title": "Bring It Back Alive",
+                "year": 0,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "2",
+                        "text": "CRC",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Club Edition"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 8300",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Outlaws",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 508629,
+                        "resource_url": "https://api.discogs.com/artists/508629"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Country Rock",
+                    "Southern Rock"
+                ]
+            },
+            "folder_id": 8778276,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 5376136,
+            "instance_id": 2050228215,
+            "date_added": "2025-08-11T17:44:56-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 5376136,
+                "master_id": 585158,
+                "master_url": "https://api.discogs.com/masters/585158",
+                "resource_url": "https://api.discogs.com/releases/5376136",
+                "thumb": "https://i.discogs.com/HnkRoHtqx24l27tuDQGepUTb56f9tXXIlNbHJu9S2mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzYx/MzYtMTYxODQxMzMw/MS00MTA1LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/069bqfnLby9KjPNBGsE6VFsn13FAl15romQJEPFsux4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzYx/MzYtMTYxODQxMzMw/MS00MTA1LmpwZWc.jpeg",
+                "title": "What Love Endures",
+                "year": 1990,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "descriptions": [
+                            "LP",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 8586",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Kris McKay",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 961066,
+                        "resource_url": "https://api.discogs.com/artists/961066"
+                    }
+                ],
+                "genres": [
+                    "Rock",
+                    "Pop"
+                ],
+                "styles": []
+            },
+            "folder_id": 8877508,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        },
+        {
+            "id": 11437899,
+            "instance_id": 2024789813,
+            "date_added": "2025-05-20T13:30:36-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 11437899,
+                "master_id": 297827,
+                "master_url": "https://api.discogs.com/masters/297827",
+                "resource_url": "https://api.discogs.com/releases/11437899",
+                "thumb": "https://i.discogs.com/1c8_zh3I8dRQDfYhbBunermMjIxjdg-KFsp9hJKpG_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/ODk5LTE2ODE4MTY3/NTYtNzgzMC5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/b_wT8FhteUpzZzaMvzAUi4WYoWfiFDcox6UJ5LSdAoA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDM3/ODk5LTE2ODE4MTY3/NTYtNzgzMC5qcGVn.jpeg",
+                "title": "In The Eye Of The Storm",
+                "year": 1979,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Santa Maria Press",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 9507",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Outlaws",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 508629,
+                        "resource_url": "https://api.discogs.com/artists/508629"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Southern Rock"
+                ]
+            },
+            "folder_id": 8778276
+        },
+        {
+            "id": 5271038,
+            "instance_id": 2073266628,
+            "date_added": "2025-10-24T15:14:15-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 5271038,
+                "master_id": 171392,
+                "master_url": "https://api.discogs.com/masters/171392",
+                "resource_url": "https://api.discogs.com/releases/5271038",
+                "thumb": "https://i.discogs.com/lCOc_IV9UvF1f94dyUSfiDVZoChAWsssIUMc8fGrmjA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzEw/MzgtMTM4OTIzNTI0/NC0yMzI1LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/VMq_MCj8ADoHoVnhBrvOnbCa5TxGOb0Buw08A8_GC_c/rs:fit/g:sm/q:90/h:540/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNzEw/MzgtMTM4OTIzNTI0/NC0yMzI1LmpwZWc.jpeg",
+                "title": "Duotones",
+                "year": 1986,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Hauppauge Press",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL-8427",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Kenny G (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 96114,
+                        "resource_url": "https://api.discogs.com/artists/96114"
+                    }
+                ],
+                "genres": [
+                    "Jazz",
+                    "Pop"
+                ],
+                "styles": [
+                    "Smooth Jazz",
+                    "Contemporary Jazz"
+                ]
+            },
+            "folder_id": 8966713,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "id": 12652063,
+            "instance_id": 2064714354,
+            "date_added": "2025-09-26T14:00:03-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 12652063,
+                "master_id": 171401,
+                "master_url": "https://api.discogs.com/masters/171401",
+                "resource_url": "https://api.discogs.com/releases/12652063",
+                "thumb": "https://i.discogs.com/OAtH9GbWuvwehuUrlkxJXWrdsP1Jwv2HV6FyojcTqrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDYzLTE1MzkzNzE3/MTctNzQyOC5qcGVn.jpeg",
+                "cover_image": "https://i.discogs.com/JmscLAFmF4w2FrNzSj9OFdL1qu9FKpEpP6xSUstlEcA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MDYzLTE1MzkzNzE3/MTctNzQyOC5qcGVn.jpeg",
+                "title": "Silhouette",
+                "year": 1988,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Allied Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL-8457",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Kenny G (2)",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 96114,
+                        "resource_url": "https://api.discogs.com/artists/96114"
+                    }
+                ],
+                "genres": [
+                    "Jazz"
+                ],
+                "styles": [
+                    "Smooth Jazz",
+                    "Contemporary Jazz"
+                ]
+            },
+            "folder_id": 8934002,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "id": 1471425,
+            "instance_id": 2130771155,
+            "date_added": "2026-04-02T15:17:54-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 1471425,
+                "master_id": 126588,
+                "master_url": "https://api.discogs.com/masters/126588",
+                "resource_url": "https://api.discogs.com/releases/1471425",
+                "thumb": "https://i.discogs.com/KzQ3SXCtKfZPyslRZ5ORFynMmvLnTEnhzaYpfz0GFwY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE0/MjUtMTUzNTI3NjY4/MC0zODI3LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/9nun0muEM5_lnj-Z-PXZR0zric2PYUSV_L180W0xgFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzE0/MjUtMTUzNTI3NjY4/MC0zODI3LmpwZWc.jpeg",
+                "title": "Outlaws",
+                "year": 1975,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Peter Pan Press",
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 4042",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    },
+                    {
+                        "name": "Arista",
+                        "catno": "4042",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Outlaws",
+                        "anv": "The Outlaws",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 508629,
+                        "resource_url": "https://api.discogs.com/artists/508629"
+                    }
+                ],
+                "genres": [
+                    "Rock"
+                ],
+                "styles": [
+                    "Southern Rock"
+                ]
+            },
+            "folder_id": 9265389,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                },
+                {
+                    "field_id": 4,
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "id": 441632,
+            "instance_id": 2019914850,
+            "date_added": "2025-05-07T07:43:04-07:00",
+            "rating": 0,
+            "basic_information": {
+                "id": 441632,
+                "master_id": 158936,
+                "master_url": "https://api.discogs.com/masters/158936",
+                "resource_url": "https://api.discogs.com/releases/441632",
+                "thumb": "https://i.discogs.com/xR6gnTXaqbOlphacdEsSzfcBqu1JBqFKpN8eabIGL6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTYz/Mi0xMjYxNzA5OTQy/LmpwZWc.jpeg",
+                "cover_image": "https://i.discogs.com/1Nwmem6HnDpIatm868aqdY8CCOac2i8N2OYirzEafCo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTYz/Mi0xMjYxNzA5OTQy/LmpwZWc.jpeg",
+                "title": "Rockin' Radio",
+                "year": 1983,
+                "formats": [
+                    {
+                        "name": "Vinyl",
+                        "qty": "1",
+                        "text": "Indianapolis Pressing",
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ]
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "Arista",
+                        "catno": "AL 8-8107",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    },
+                    {
+                        "name": "Arista",
+                        "catno": "AL8-8107",
+                        "entity_type": "1",
+                        "entity_type_name": "Label",
+                        "id": 362,
+                        "resource_url": "https://api.discogs.com/labels/362"
+                    }
+                ],
+                "artists": [
+                    {
+                        "name": "Tom Browne",
+                        "anv": "",
+                        "join": "",
+                        "role": "",
+                        "tracks": "",
+                        "id": 10088,
+                        "resource_url": "https://api.discogs.com/artists/10088"
+                    }
+                ],
+                "genres": [
+                    "Electronic",
+                    "Jazz",
+                    "Funk / Soul"
+                ],
+                "styles": [
+                    "Electro",
+                    "Soul",
+                    "Jazz-Funk"
+                ]
+            },
+            "folder_id": 8755401,
+            "notes": [
+                {
+                    "field_id": 3,
+                    "value": "A"
+                }
+            ]
+        }
+    ]
+}
