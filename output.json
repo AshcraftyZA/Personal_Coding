@@ -3,7 +3,7 @@
         "page": 1,
         "pages": 9,
         "per_page": 50,
-        "items": 428,
+        "items": 425,
         "urls": {
             "last": "https://api.discogs.com/users/ZackDimondRecords1/collection/folders/0/releases?page=9&per_page=50&sort=label&sort_order=asc",
             "next": "https://api.discogs.com/users/ZackDimondRecords1/collection/folders/0/releases?page=2&per_page=50&sort=label&sort_order=asc"
