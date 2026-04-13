@@ -5,7 +5,7 @@ import requests
 import json
 import time
 
-df= pd.read_csv("/workspaces/Personal_Coding/Discogs Collection Modifier/zackdimondrecords1-collection-20260407-0529.csv")
+df= pd.read_csv("/workspaces/Personal_Coding/Discogs Collection Modifier/zackdimondrecords1-collection-20260413-2024.csv")
 backup = df
 df_stock = df.dropna(subset =['Collection Notes'])
 df_sold = df[df['Collection Notes'].isna()]
@@ -46,8 +46,6 @@ while True:
         collection_url = f"https://api.discogs.com/users/{username}/collection/folders/{folder_id}/releases?page={page}&per_page={per_page}"
         response = requests.get(collection_url, headers=headers)
         data = response.json()
-        with open("output.json", "w") as f:
-            json.dump(data, f, indent=4)
         pages_n = response.json()['pagination']['pages']
         var_page = 0
         delete_list = []
@@ -74,15 +72,14 @@ while True:
             for item in delete_list:
                 url = f"https://api.discogs.com/users/{username}/collection/folders/{item['folder_id']}/releases/{item['release_id']}/instances/{item['instance_id']}"
                 response = requests.delete(url, headers=headers)
+                #AI helped me to figure out delete codes and testing stuff. 
                 if response.status_code == 204:
                     print("✅ Deleted")
                 elif response.status_code == 429:
                     print("⏳ Rate limited — sleeping...")
-                    time.sleep(10)  # wait longer if blocked
+                    time.sleep(10)
                     continue
                 else:
-                    print("❌ Error:", response.status_code, response.text)
-                time.sleep(1.5)  # normal throttle
-
+                    time.sleep(1.5) 
     if userin == 0:
         break
